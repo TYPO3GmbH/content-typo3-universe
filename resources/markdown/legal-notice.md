@@ -2,8 +2,8 @@
 
 Information in accordance with section 5 TMG:
 
-TYPO3 GmbH\
-Emanuel-Leutze-Str. 11\
+TYPO3 GmbH  
+Emanuel-Leutze-Str. 11  
 40547 Düsseldorf
 
 ## Represented by
@@ -12,24 +12,24 @@ Mathias Schreiber
 
 ## Contact
 
-Telephone: +49 (0)211 20 54 36 0\
-E-Mail: [info(at)typo3.com](mailto:info@typo3.com)\
+Telephone: +49 (0)211 20 54 36 0  
+E-Mail: [info(at)typo3.com](mailto:info@typo3.com)  
 Internetaddress: [typo3.com](https://typo3.com)
 
 ## Register Entry
 
 Entry in Handelsregister
-Register Number: 77950
+Register Number: 77950  
 Register Court: Amtsgericht Düsseldorf
 
 ## VAT ID
 
-Sales tax identification number according to § 27 a of the Sales Tax Law:\
+Sales tax identification number according to § 27 a of the Sales Tax Law:  
 DE 815 655 651
 
-Responsible for the content according to § 55(2) RStV\
-TYPO3 GmbH\
-Emanuel-Leutze-Str. 11\
+Responsible for the content according to § 55(2) RStV  
+TYPO3 GmbH  
+Emanuel-Leutze-Str. 11  
 40547 Düsseldorf
 
 
