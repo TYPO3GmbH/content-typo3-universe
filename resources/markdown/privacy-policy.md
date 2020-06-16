@@ -8,22 +8,18 @@ The following information will provide you with an easy to navigate overview of 
 
 ### Data recording on our website
 
-### Who is the responsible party for the recording of data on this website (i.e. the “controller”)?
-
+**Who is the responsible party for the recording of data on this website (i.e. the “controller”)?**  
 The data on this website is processed by the operator of the website, whose contact information is available under section “Information Required by Law” on this website.
 
-### How do we record your data?
-
+**How do we record your data?**  
 We collect your data as a result of your sharing of your data with us. This may, for instance be information you enter into our contact form.
 
 Our IT systems automatically record other data when you visit our website. This data comprises primarily technical information (e.g. web browser, operating system or time the site was accessed). This information is recorded automatically when you access our website.
 
-### What are the purposes we use your data for?
-
+**What are the purposes we use your data for?**  
 A portion of the information is generated to guarantee the error free provision of the website. Other data may be used to analyse your user patterns.
 
-### What rights do you have as far as your information is concerned?
-
+**What rights do you have as far as your information is concerned?**  
 You have the right to receive information about the source, recipients and purposes of your archived personal data at any time without having to pay a fee for such disclosures. You also have the right to demand that your data are rectified, blocked or eradicated. Please do not hesitate to contact us at any time under the address disclosed in section “Information Required by Law” on this website if you have questions about this or any other data protection related issues. You also have the right to log a complaint with the competent supervising agency.
 
 Moreover, under certain circumstances, you have the right to demand the restriction of the processing of your personal data. For details, please consult the Data Protection Declaration under section “Right to Restriction of Data Processing.”
@@ -36,7 +32,7 @@ You do have the option to object to such analyses. We will brief you on the obje
 
 ## 2. General information and mandatory information
 
-### **Data protection**
+### Data protection
 
 The operators of this website and its pages take the protection of your personal data very seriously. Hence, we handle your personal data as confidential information and in compliance with the statutory data protection regulations and this Data Protection Declaration.
 
@@ -48,13 +44,12 @@ We herewith advise you that the transmission of data via the Internet (i.e. thro
 
 The data processing controller on this website is:
 
-TYPO3 Association  
-Herr Olivier Dobberkau / President  
-Sihlbruggstrasse 105  
-CH 6340 Baar
+TYPO3 GmbH
+Emanuel-Leutze-Str. 11
+40547 Düsseldorf
 
-Telephone: +41 41 511 00 35  
-Email: [info(at)typo3.org](mailto:info@typo3.org)
+Phone: +49 211 2054360
+E-mail: [info@typo3.com](mailto:info@typo3.com)
 
 The controller is the natural person or legal entity that single-handedly or jointly with others makes decisions as to the purposes of and resources for the processing of personal data (e.g. names, e-mail addresses, etc.).
 
@@ -64,13 +59,13 @@ A wide range of data processing transactions are possible only subject to your e
 
 ### Right to object to the collection of data in special cases; right to object to direct advertising (Art. 21 GDPR)
 
-**In the event that data are processed on the basis of Art. 6 Sect. 1 lit. e or f GDPR, you have the right to at any time object to the processing of your personal data based on grounds arising from your unique situation. This also applies to any profiling based on these provisions. To determine the legal basis, on which any processing of data is based, please consult this Data Protection Declaration. If you log an objection, we will no longer process your affected personal data, unless we are in a position to present compelling protection worthy grounds for the processing of your data, that outweigh your interests, rights and freedoms or if the purpose of the processing is the claiming, exercising or defence of legal entitlements (objection pursuant to Art. 21 Sect. 1 GDPR).**
+In the event that data are processed on the basis of Art. 6 Sect. 1 lit. e or f GDPR, you have the right to at any time object to the processing of your personal data based on grounds arising from your unique situation. This also applies to any profiling based on these provisions. To determine the legal basis, on which any processing of data is based, please consult this Data Protection Declaration. If you log an objection, we will no longer process your affected personal data, unless we are in a position to present compelling protection worthy grounds for the processing of your data, that outweigh your interests, rights and freedoms or if the purpose of the processing is the claiming, exercising or defence of legal entitlements (objection pursuant to Art. 21 Sect. 1 GDPR).
 
-**If your personal data is being processed in order to engage in direct advertising, you have the right to at any time object to the processing of your affected personal data for the purposes of such advertising. This also applies to profiling to the extent that it is affiliated with such direct advertising. If you object, your personal data will subsequently no longer be used for direct advertising purposes (objection pursuant to Art. 21 Sect. 2 GDPR).**
+If your personal data is being processed in order to engage in direct advertising, you have the right to at any time object to the processing of your affected personal data for the purposes of such advertising. This also applies to profiling to the extent that it is affiliated with such direct advertising. If you object, your personal data will subsequently no longer be used for direct advertising purposes (objection pursuant to Art. 21 Sect. 2 GDPR).
 
 ### Right to log a complaint with the competent supervisory agency
 
-In the event of violations of the GDPR, data subjects are entitled to log a complaint with a supervisory agency, in particular in the member state where they usually maintain their domicile, place of work or at the place where the alleged violation occurred. The right to log a complaint is in effect regardless of any other administrative or court proceedings available as legal recourses.
+In the event of violations of the GDPR, data subjects are entitled to log a complaint with a supervisory agency, in particular in the member state where they usually maintain their domicile, place of work or at the place where the alleged violation occurred. The right to log a complaint is in effect regardless of any other administrative or court proceedings available as legal resources.
 
 ### Right to data portability
 
@@ -82,14 +77,6 @@ For security reasons and to protect the transmission of confidential content, su
 
 If the SSL or TLS encryption is activated, data you transmit to us cannot be read by third parties.
 
-### Encrypted payment transactions on this website
-
-If you are under an obligation to share your payment information (e.g. account number if you give us the authority to debit your bank account) with us after you have entered into a fee-based contract with us, this information is required to process payments.
-
-Payment transactions using common modes of paying (Visa/MasterCard, debit to your bank account) are processed exclusively via encrypted SSL or TLS connections. You can recognise an encrypted connection by checking whether the address line of the browser switches from “http://” to “https://” and also by the appearance of the lock icon in the browser line.
-
-If the communication with us is encrypted, third parties will not be able to read the payment information you share with us.
-
 ### Information about, blockage, rectification and eradication of data
 
 Within the scope of the applicable statutory provisions, you have the right to at any time demand information about your archived personal data, their source and recipients as well as the purpose of the processing of your data. You may also have a right to have your data rectified, blocked or eradicated. If you have questions about this subject matter or any other questions about personal data, please do not hesitate to contact us at any time at the address provided in section “Information Required by Law.”
@@ -98,27 +85,31 @@ Within the scope of the applicable statutory provisions, you have the right to a
 
 You have the right to demand the imposition of restrictions as far as the processing of your personal data is concerned. To do so, you may contact us at any time at the address provided in section “Information Required by Law.” The right to demand restriction of processing applies in the following cases:
 
-*   In the event that you should dispute the correctness of your data archived by us, we will usually need some time to verify this claim. During the time that this investigation is ongoing, you have the right to demand that we restrict the processing of your personal data.
-*   If the processing of your personal data was/is conducted in an unlawful manner, you have the option to demand the restriction of the processing of your data in lieu of demanding the eradication of this data.
-*   If we do not need your personal data any longer and you need it to exercise, defend or claim legal entitlements, you have the right to demand the restriction of the processing of your personal data instead of its eradication.
-*   If you have raised an objection pursuant to Art. 21 Sect. 1 GDPR, your rights and our rights will have to be weighed against each other. As long as it has not been determined whose interests prevail, you have the right to demand a restriction of the processing of your personal data.
+* In the event that you should dispute the correctness of your data archived by us, we will usually need some time to verify this claim. During the time that this investigation is ongoing, you have the right to demand that we restrict the processing of your personal data.
+* If the processing of your personal data was/is conducted in an unlawful manner, you have the option to demand the restriction of the processing of your data in lieu of demanding the eradication of this data.
+* If we do not need your personal data any longer and you need it to exercise, defend or claim legal entitlements, you have the right to demand the restriction of the processing of your personal data instead of its eradication.
+* If you have raised an objection pursuant to Art. 21 Sect. 1 GDPR, your rights and our rights will have to be weighed against each other. As long as it has not been determined whose interests prevail, you have the right to demand a restriction of the processing of your personal data.
 
 If you have restricted the processing of your personal data, these data – with the exception of their archiving – may be processed only subject to your consent or to claim, exercise or defend legal entitlements or to protect the rights of other natural persons or legal entities or for important public interest reasons cited by the European Union or a member state of the EU.
 
+### Rejection of unsolicited e-mails
+
+We herewith object to the use of contact information published in conjunction with the mandatory information to be provided in section “Information Required by Law” to send us promotional and information material that we have not expressly requested. The operators of this website and its pages reserve the express right to take legal action in the event of the unsolicited sending of promotional information, for instance via SPAM messages.
+
 ## 3. Data protection officer
 
-### Designation of a data protection officer as mandated by law
+### Statutory data protection officer
 
 We have appointed a data protection officer for our company.
 
-The data protection officer of the TYPO3 Association is provided by  
+The data protection officer of TYPO3 GmbH is provided by  
 Computer-Zauber  
 Dipl.-Ing. Karen Falkenberg  
 Erlentiefenstraße 54  
 59192 Bergkamen
 
-Telephone: +49 (0) 2307 80102  
-Email: [privacy(at)typo3.org](mailto:privacy@typo3.org)
+Telephone: +49 2307 80102  
+Email: [datenschutz@computer-zauber.de](mailto:datenschutz@computer-zauber.de)
 
 ## 4. Recording of data on our website
 
@@ -136,12 +127,12 @@ Cookies that are required for the performance of the electronic communications t
 
 The provider of this website and its pages automatically collects and stores information in so-called server log files, which your browser communicates to us automatically. The information comprises:
 
-*   The type and version of browser used
-*   The used operating system
-*   Referrer URL
-*   The hostname of the accessing computer
-*   The time of the server inquiry
-*   The IP address
+* The type and version of browser used
+* The used operating system
+* Referrer URL
+* The hostname of the accessing computer
+* The time of the server inquiry
+* The IP address
 
 This data is not merged with other data sources.
 
@@ -155,31 +146,25 @@ Hence, the processing of the data entered into the contact form occurs exclusive
 
 The information you have entered into the contact form shall remain with us until you ask us to eradicate the data, revoke your consent to the archiving of data or if the purpose for which the information is being archived no longer exists (e.g. after we have concluded our response to your inquiry). This shall be without prejudice to any mandatory legal provisions – in particular retention periods.
 
-### Registration on this website
-
-You have the option to register on our website to be able to use additional website functions. We shall use the data you enter only for the purpose of using the respective offer or service you have registered for. The required information we request at the time of registration must be entered in full. Otherwise we shall reject the registration.
-
-To notify you of any important changes to the scope of our portfolio or in the event of technical modifications, we shall use the e-mail address provided during the registration process.
-
-We shall process the data entered during the registration process on the basis of your consent (Art. 6 Sect. 1 lit. a GDPR). You have the right to revoke at any time any consent you have already given us. To do so, all you are required to do is sent us an informal notification via e-mail. This shall be without prejudice to the lawfulness of any data collection that occurred prior to your revocation.
-
-The data recorded during the registration process shall be stored by us as long as you are registered on our website. Subsequently, such data shall be deleted. This shall be without prejudice to mandatory statutory retention obligations.
-
 ### The comment function on this website
 
 When you use the comment function on this website, information on the time the comment was generated and, if you are not posting anonymously, the user name you have selected will be archived in addition to your comments.
 
-### Subscribing to comments
+#### Subscribing to comments
 
 As a user of this website, you have the option to subscribe to comments after you have registered. You will receive a confirmation e-mail, the purpose of which is to verify whether you are the actual holder of the provided e-mail address. You can deactivate this function at any time by following a respective link in the information e-mails. The data entered in conjunction with subscriptions to comments will be deleted in this case. However, if you have communicated this information to us for other purposes and from a different location (e.g. when subscribing to the newsletter), the data shall remain in our possession.
 
-### Storage period for comments
+#### Storage period for comments
 
 Comments and any affiliated information (e.g. the IP address) shall be stored by us and remain on our website until the content the comment pertained to has been deleted in its entirety or if the comments had to be deleted for legal reasons (e.g. insulting comments).
 
 ### Legal basis
 
 Comments are stored on the basis of your consent (Art. 6 Sect. 1 lit. a GDPR). You have the right to revoke at any time any consent you have already given us. To do so, all you are required to do is sent us an informal notification via e-mail. This shall be without prejudice to the lawfulness of any data collection that occurred prior to your revocation.
+
+### Request by e-mail, telephone or fax
+
+If you contact us by e-mail, telephone or fax, your request, including all resulting personal data (name, request) will be stored and processed by us for the purpose of processing your request. We do not pass these data on without your consent. The processing of these data is based on Art. 6 para. 1 lit. b GDPR, if your request is related to the execution of a contract or if it is necessary to carry out pre-contractual measures. In all other cases, the processing is based on your consent (Article 6 (1) a GDPR) and/or on our legitimate interests (Article 6 (1) (f) GDPR), since we have a legitimate interest in the effective processing of requests addressed to us. The data sent by you to us via contact requests remain with us until you request us to delete, revoke your consent to the storage or the purpose for the data storage lapses (e.g. after completion of your request). Mandatory statutory provisions - in particular statutory retention periods - remain unaffected.
 
 ### Processing of data (customer and contract data)
 
@@ -199,9 +184,9 @@ The basis for the processing of data is Art. 6 Sect. 1 lit. b GDPR, which permit
 
 ### Facebook plug-ins (Like & Share button)
 
-We have integrated plug-ins of the social network Facebook, provided by Facebook Inc., 1 Hacker Way, Menlo Park, California 94025, USA, on our website. You will be able to recognise Facebook plug-ins by the Facebook logo or the "Like" button on our website. An overview of the Facebook plug-ins is available under the following link: [https://developers.facebook.com/docs/plugins/](https://developers.facebook.com/docs/plugins/).
+We have integrated plug-ins of the social network Facebook, provided by Facebook Inc., 1 Hacker Way, Menlo Park, California 94025, USA, on our website. You will be able to recognise Facebook plug-ins by the Facebook logo or the "Like" button on our website. An overview of the Facebook plug-ins is available under the following link: https://developers.facebook.com/docs/plugins/.
 
-Whenever you visit our website and its pages, the plug-in will establish a direct connection between your browser and the Facebook server. As a result, Facebook will receive the information that you have visited our website with your plug-in. However, if you click the Facebook “Like” button while you are logged into your Facebook account, you can link the content of our website and its pages with your Facebook profile. As a result, Facebook will be able to allocate the visit to our website and its pages to your Facebook user account. We have to point out, that we as the provider of the website do not have any knowledge of the transferred data and its use by Facebook. For more detailed information, please consult the Data Privacy Declaration of Facebook at: [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation).
+Whenever you visit our website and its pages, the plug-in will establish a direct connection between your browser and the Facebook server. As a result, Facebook will receive the information that you have visited our website with your plug-in. However, if you click the Facebook “Like” button while you are logged into your Facebook account, you can link the content of our website and its pages with your Facebook profile. As a result, Facebook will be able to allocate the visit to our website and its pages to your Facebook user account. We have to point out, that we as the provider of the website do not have any knowledge of the transferred data and its use by Facebook. For more detailed information, please consult the Data Privacy Declaration of Facebook at: https://www.facebook.com/privacy/explanation.
 
 If you do not want Facebook to be able to allocate your visit to our website and its pages to your Facebook user account, please log out of your Facebook account while you are on our website.
 
@@ -209,55 +194,75 @@ The use of the Facebook plug-in is based on Art. 6 Sect. 1 lit. f GDPR. The oper
 
 ### Twitter plug-in
 
-We have integrated functions of the social media platform Twitter into our website. These functions are provided by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. While you use Twitter and the "Re-Tweet" function, websites you visit are linked to your Twitter account and disclosed to other users. During this process, data are transferred to Twitter as well. We must point out, that we, the providers of the website and its pages do not know anything about the content of the data transferred and the use of this information by Twitter. For more details, please consult Twitter’s Data Privacy Declaration at: [https://twitter.com/en/privacy](https://twitter.com/en/privacy).
+We have integrated functions of the social media platform Twitter into our website. These functions are provided by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. While you use Twitter and the "Re-Tweet" function, websites you visit are linked to your Twitter account and disclosed to other users. During this process, data are transferred to Twitter as well. We must point out, that we, the providers of the website and its pages do not know anything about the content of the data transferred and the use of this information by Twitter. For more details, please consult Twitter’s Data Privacy Declaration at: https://twitter.com/en/privacy.
 
 The use of Twitter plug-ins is based on Art. 6 Sect. 1 lit. f GDPR. The operator of the website has a legitimate interest in being as visible as possible on social media.
 
-You have the option to reset your data protection settings on Twitter under the account settings at [https://twitter.com/account/settings](https://twitter.com/account/settings).
+You have the option to reset your data protection settings on Twitter under the account settings at https://twitter.com/account/settings.
 
-### Google+ plug-in
+### LinkedIn plug-in
 
-Our website and its pages use functions of Google+; the provider is Google Ireland Limited (“Google”), Gordon House, Barrow Street, Dublin 4, Ireland.
+Our website uses functions of the LinkedIn network. The provider is LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, USA.
 
-Recording and sharing of information: With the assistance of the Google+ button, you can publish information worldwide. The Google+ button provides you and other users with custom tailored Google content as well as content of our partners. Google saves the information you have entered for content with +1 as well as information about the website/page you viewed when you clicked on +1\. Your +1 entries may appear as information along with your profile name and your photo on Google services, such as in search results or in your Google profile or in other locations on websites and ads on the Internet.
+Any time you access one of our sites that contains functions of LinkedIn, a connection to LinkedIn’s servers is established. LinkedIn is notified that you have visited our websites with your IP address. If you click on LinkedIn’s "Recommend" button and are logged into your LinkedIn account at the time, LinkedIn will be in a position to allocate your visit to our website to your user account. We have to point out that we as the provider of the websites do not have any knowledge of the content of the transferred data and its use by LinkedIn.
 
-Google records information about your +1 activities to improve Google’s services for you and others. To be able to use the Google+ button, you will need a public Google profile, which is visible around the world, which must contain at least the name you have chosen for your profile. This name is used in conjunction with all Google services. In some cases, this name may also replace another name you have used when sharing content via your Google account. The identity of your Google profile may be displayed to users who know your e-mail address or are in possession of other information related to you that identifies you.
+The use of the LinkedIn plug-in is based on Art. 6 Sect. 1 lit. f GDPR. The operator of the website has a legitimate interest in being as visible as possible on social media.
 
-Use of the recorded information: Besides the abovementioned purposes of use, the information you provide is also used in compliance with the applicable Google Data Privacy Policies. Google may potentially publish summary statistics about the +1 activities of its users or shares this information with users and partners, such as publishers, prospective customers or affiliated websites.
+For further information on this subject, please consult LinkedIn’s Data Privacy Declaration at: https://www.linkedin.com/legal/privacy-policy.
 
-The use of the Google+ plug-in is based on Art. 6 Sect. 1 lit. f GDPR. The operator of the website has a legitimate interest in being as visible as possible on social media.
+### XING plug-in
+
+Our website uses functions of the XING network. The provider is the XING AG, Dammtorstraße 29-32, 20354 Hamburg, Germany.
+
+Any time one of our sites/pages that contains functions of XING is accessed, a connection with XING’s servers is established. As far as we know, this does not result in the archiving of any personal data. In particular, the service does not store any IP addresses or analyse user patterns.
+
+The use of the XING plug-in is based on Art. 6 Sect. 1 lit. f GDPR. The operator of the website has a legitimate interest in being as visible as possible on social media.
+
+For more information on data protection and the XING share button please consult the Data Protection Declaration of Xing at: https://www.xing.com/app/share?op=data_protection.
 
 ## 6. Analysis tools and advertising
 
-### Matomo (formerly called Piwik)
+### Google Analytics
 
-This website uses the open source web analysis service Matomo. Matomo uses so-called “cookies,” which are text files that are stored on your computer and that make it possible to analyse your use of this website. In conjunction with this, the information about the use of this website generated by the cookie will be archived on our server. Prior to archiving, the IP address will first be anonymized.
+This website uses functions of the web analysis service Google Analytics. The provider of this service is Google Ireland Limited (“Google”), Gordon House, Barrow Street, Dublin 4, Ireland.
 
-Matomo cookies will remain on your device until you delete them.
+Google Analytics uses so-called cookies. Cookies are text files, which are stored on your computer and that enable an analysis of the use of the website by users. The information generated by cookies on your use of this website is usually transferred to a Google server in the United States, where it is stored.
 
-The storage of Matomo cookies and the use of this analysis tool are based on Art. 6 Sect. 1 lit. f GDPR. The website operator has a legitimate interest in the analysis of user patterns, in order to optimize the operator’s web offerings and advertising.
+The storage of Google Analytics cookies and the utilization of this analysis tool are based on Art. 6 Sect. 1 lit. f GDPR. The operator of this website has a legitimate interest in the analysis of user patterns to optimize both, the services offered online and the operator’s advertising activities.
 
-The information generated by cookies concerning the use of this website shall not be shared with any third parties. You may prevent the storage of cookies at any time by making pertinent changes to your browser software settings; however, we have to point out that in this case you may not be able to use all of the functions of this website to their fullest extent.
+#### IP anonymization
 
-If you do not consent to the storage and use of your data, you have the option to deactivate the storage and use of such data here. In this case, an opt out cookie will be placed in our browser, which prevent the storage of usage data by Matomo. If you delete your cookies, this will also result in the deletion of the Matomo opt out cookie. Hence, you will have to reactivate the opt out when you return to visit our website.
+On this website, we have activated the IP anonymization function. As a result, your IP address will be abbreviated by Google within the member states of the European Union or in other states that have ratified the Convention on the European Economic Area prior to its transmission to the United States. The full IP address will be transmitted to one of Google’s servers in the United States and abbreviated there only in exceptional cases. On behalf of the operator of this website, Google shall use this information to analyse your use of this website to generate reports on website activities and to render other services to the operator of this website that are related to the use of the website and the Internet. The IP address transmitted in conjunction with Google Analytics from your browser shall not be merged with other data in Google’s possession.
 
-[Opt out Matomo tracking](https://piwik.typo3.org/index.php?module=CoreAdminHome&action=optOut&language=en&backgroundColor=&fontColor=&fontSize=&fontFamily=)
+#### Browser plug-in
 
-### Google Analytics Remarketing
+You do have the option to prevent the archiving of cookies by making pertinent changes to the settings of your browser software. However, we have to point out that in this case you may not be able to use all of the functions of this website to their fullest extent. Moreover, you have the option prevent the recording of the data generated by the cookie and affiliated with your use of the website (including your IP address) by Google as well as the processing of this data by Google by downloading and installing the browser plug-in available under the following link: https://tools.google.com/dlpage/gaoptout?hl=en.
 
-This website uses the functions of Google Analytics Remarketing in combination with the functions of Google AdWords and Google DoubleClick, which work on all devices. The provider of these solutions is Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Ireland.
+#### Contract data processing
 
-This function makes it possible to connect the advertising target groups generated with Google Analytics Remarketing with the functions of Google AdWords and Google DoubleClick, which work on all devices. This makes it possible to display interest-based customized advertising messages, depending on your prior usage and browsing patterns on a device (e.g. cell phone) in a manner tailored to you as well as on any of your devices (e.g. tablet or PC).
+We have executed a contract data processing agreement with Google and are implementing the stringent provisions of the German data protection agencies to the fullest when using Google Analytics.
 
-If you have given us pertinent consent, Google will connect your web and app browser progressions with your Google account for this purpose. As a result, it is possible to display the same personalized advertising messages on every device you log into with your Google account.
+#### Demographic parameters provided by Google Analytics
 
-To support this function, Google Analytics records Google authenticated IDs of users that are temporarily connected with our Google Analytics data to define and compile the target groups for the ads to be displayed on all devices.
+This website uses the function “demographic parameters” provided by Google Analytics. It makes it possible to generate reports providing information on the age, gender and interests of website visitors. The sources of this information are interest-related advertising by Google as well as visitor data obtained from third party providers. This data cannot be allocated to a specific individual. You have the option to deactivate this function at any time by making pertinent settings changes for advertising in your Google account or you can generally prohibit the recording of your data by Google Analytics as explained in section “Objection to the recording of data.”
 
-You have the option to permanently object to remarketing/targeting across all devices by deactivating personalized advertising. To do this, please follow this link: [https://www.google.com/settings/ads/onweb/](https://www.google.com/settings/ads/onweb/).
+#### Objection to the recording of data
 
-The consolidation of the recorded data in your Google account shall occur exclusively based on your consent, which you may give to Google and also revoke there (Art. 6 Sect. 1 lit. a GDPR). Data recording processes that are not consolidated in your Google account (for instance because you do not have a Google account or have objected to the consolidation of data), the recording of data is based on Art. 6 Sect. 1 lit. f GDPR. The legitimate interest arises from the fact that the operator of the website has a legitimate interest in the anonymized analysis of website visitor for advertising purposes.
+For more information about the handling of user data by Google Analytics, please consult Google’s Data Privacy Declaration at: https://support.google.com/analytics/answer/6004245?hl=en.
 
-For further information and the pertinent data protection regulations, please consult the Data Privacy Policies of Google at: [https://policies.google.com/technologies/ads?hl=en](https://policies.google.com/technologies/ads?hl=en).
+### Google AdWords and Google Conversion Tracking
+
+This website uses functions of the web analysis service Google Analytics. The provider of this service is Google Ireland Limited (“Google”), Gordon House, Barrow Street, Dublin 4, Ireland.
+
+In conjunction with Google AdWords, we use a tool called Conversion Tracking. If you click on an ad posted by Google, a cookie for Conversion Tracking purposes will be placed. Cookies are small text files the web browser places on the user’s computer. These cookies expire after 30 days and are not used to personally identify users. If the user visits certain pages of this website and the cookie has not yet expired, Google and we will be able to recognise that the user has clicked on an ad and has been linked to this page.
+
+A different cookie is allocated to every Google AdWords customer. These cookies cannot be tracked via websites of AdWords customers. The information obtained with the assistance of the Conversion cookie is used to generate Conversion statistics for AdWords customers who have opted to use Conversion Tracking. The users receive the total number of users that have clicked on their ads and have been linked to a page equipped with a Conversion Tracking tag. However, they do not receive any information that would allow them to personally identify these users. If you do not want to participate in tracking, you have the option to object to this use by easily deactivating the Google Conversion Tracking cookie via your web browser under user settings. If you do this, you will not be included in the Conversion Tracking statistics.
+
+The storage of “Conversion” cookies and the use of this tracking tool are based on Art. 6 Sect. 1 lit. f GDPR. The website operator has a legitimate interest in the analysis of user patterns, in order to optimize the operator’s web offerings and advertising.
+
+To review more detailed information about Google AdWords and Google Conversion Tracking, please consult the Data Privacy Policies of Google at: https://policies.google.com/privacy?hl=en.
+
+You can set up your browser in such a manner that you will be notified anytime cookies are placed and you can permit cookies only in certain cases or exclude the acceptance of cookies in certain instances or in general and you can also activate the automatic deletion of cookies upon closing of the browser. If you deactivate cookies, the functions of this website may be limited.
 
 ## 7. Newsletter
 
@@ -265,59 +270,105 @@ For further information and the pertinent data protection regulations, please co
 
 If you would like to subscribe to the newsletter offered on this website, we will need from you an e-mail address as well as information that allow us to verify that you are the owner of the e-mail address provided and consent to the receipt of the newsletter. No further data shall be collected or shall be collected only on a voluntary basis. We shall use such data only for the sending of the requested information and shall not share such data with any third parties.
 
-The processing of the information entered into the newsletter subscription form shall occur exclusively on the basis of your consent (Art. 6 Sect. 1 lit. a GDPR). You may revoke the consent you have given to the archiving of data, the e-mail address and the use of this information for the sending of the newsletter at any time, for instance by clicking on the „Unsubscribe“ link in the newsletter. This shall be without prejudice to the lawfulness of any data processing transactions that have taken place to date.
+The processing of the information entered into the newsletter subscription form shall occur exclusively on the basis of your consent (Art. 6 Sect. 1 lit. a GDPR). You may revoke the consent you have given to the archiving of data, the e-mail address and the use of this information for the sending of the newsletter at any time, for instance by clicking on the "Unsubscribe" link in the newsletter. This shall be without prejudice to the lawfulness of any data processing transactions that have taken place to date.
 
-The data deposited with us for the purpose of subscribing to the newsletter will be stored by us until you unsubscribe from the newsletter or the newsletter service provider and deleted from the newsletter distribution list after you unsubscribe from the newsletter. Data stored for other purposes with us remain unaffected.
+The data you archive with us for the purpose of the newsletter subscription shall be archived by us until you unsubscribe from the newsletter. Once you cancel your subscription to the newsletter, the data shall be deleted. This shall not affect data we have been archiving for other purposes.
 
-After you unsubscribe from the newsletter distribution list, your e-mail address may be stored by us or the newsletter service provider in a blacklist to prevent future mailings. The data from the blacklist is used only for this purpose and not merged with other data. This serves both your interest and our interest in complying with the legal requirements when sending newsletters (legitimate interest within the meaning of Art. 6 Sect. 1 lit. f GDPR). The storage in the blacklist is indefinite. **You may object to the storage if your interests outweigh our legitimate interest.**
+### Use of HubSpot
+
+TYPO3 GmbH uses HubSpot for online marketing activities and website analysis purposes. HubSpot is an integrated software solution that covers various online marketing concepts.
+
+These include:
+
+* Content management (website and blog)
+* E-Mail marketing (newsletter as well as automated mailings, e.g. for the provision of downloads)
+* Social media publishing & reporting
+* Reporting (e.g. traffic sources, accesses, etc. ...)
+* Contact management (e.g. user segmentation & CRM)
+* Landing pages and contact forms
+
+The registration service allows visitors to find out more about the content management system TYPO3, appropriate content is provided and offered for download. The contact information of the prospective customer or the TYPO3 Association member as well as demographic information will be provided.
+
+The CRM HubSpot is located on the servers of our software partner HubSpot, which is certified under the EU-US Privacy Shield. It is also subject to the TRUSTe's Privacy Seal and the US - Swiss Safe Harbor Framework.
+
+The website user data will be stored on the servers and will be used by us to connect with visitors to our website and to determine which services our company is interested in. This ensures that the website receives more accurate information for users.
+
+The purpose of the collected data is the optimization of our offer. The corresponding legal basis is based on Article 6 Sect. 1 lit. f GDPR (legitimate interest). **The data collected is subject to our privacy policy.**
+
+#### HubSpot cookies
+
+HubSpot CRM uses web beacons and cookies that are stored on your computer to allow us to analyze your use of the website. The collected information (such as part of the IP address, geographic location, type of browser, time and duration of the visit, and pages viewed) is evaluated by the CRM. With this information we can generate a report about the visit.
+
+However, you have the option to set your browser to notify you when you receive a cookie. Then you can decide for yourself whether you accept it or not.
+
+* Firefox (Windows): → Tools → Settings → Privacy → Create History for Custom Settings
+* Firefox (Linux): → Edit → Settings → Privacy → Create history according to user-defined settings
+* Internet Explorer: → Tools → Internet Options → Privacy → Advanced
+
+For detailed information about how Hubspot works, refer to Hubspot Inc.'s Privacy Policy at: http://legal.hubspot.com/privacy-policy
+
+The software company HubSpot is based in the US, with a branch in Ireland.
+
+HubSpot  
+2nd Floor 30 North Wall Quay  
+Dublin 1, Ireland,  
+Phone: +353 1 5187500.
 
 ## 8. Plug-ins and Tools
 
-### YouTube with expanded data protection integration
+YouTube with expanded data protection integration
+This website uses functions of the web analysis service Google Analytics. The provider of this service is Google Ireland Limited (“Google”), Gordon House, Barrow Street, Dublin 4, Ireland.
 
-attempts to commit fraud. These cookies will stay on your device until you delete them.
+We use YouTube in the expanded data protection mode. According to YouTube, this mode ensures that YouTube does not store any information about visitors to this website before they watch the video. Nevertheless, this does not necessarily mean that the sharing of data with YouTube partners can be ruled out as a result of the expanded data protection mode. For instance, regardless of whether you are watching a video, YouTube will always establish a connection with the Google DoubleClick network.
+
+As soon as you start to play a YouTube video on our website, a connection to YouTube’s servers will be established. As a result, the YouTube server will be notified, which of our pages you have visited. If you are logged into your YouTube account while you visit our site, you enable YouTube to directly allocate your browsing patterns to your personal profile. You have the option to prevent this by logging out of your YouTube account.
+
+Furthermore, after you have started to play a video, YouTube will be able to place various cookies on your device. With the assistance of these cookies, YouTube will be able to obtain information about our website visitor. Among other things, this information will be used to generate video statistics with the aim of improving the user friendliness of the site and to prevent attempts to commit fraud. These cookies will stay on your device until you delete them.
 
 Under certain circumstances, additional data processing transactions may be triggered after you have started to play a YouTube video, which are beyond our control.
 
-The use of YouTube is based on our interest in presenting our online content in an appealing manner. Pursuant to Art. 6 Sect. 1 lit. f GDPR, this is a legitimate interest. If a corresponding agreement has been requested (e.g. an agreement to the storage of cookies), the processing takes place exclusively on the basis of Art. 6 para. 1 lit. a GDPR; the agreement can be revoked at any time.
+The use of YouTube is based on our interest in presenting our online content in an appealing manner. Pursuant to Art. 6 Sect. 1 lit. f GDPR, this is a legitimate interest.
 
-For more information on how YouTube handles user data, please consult the YouTube Data Privacy Policy under: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en).
+For more information on how YouTube handles user data, please consult the YouTube Data Privacy Policy under: https://policies.google.com/privacy?hl=en.
 
 ### Google Web Fonts (local embedding)
 
 This website uses so-called Web Fonts provided by Google to ensure the uniform use of fonts on this site. These Google fonts are locally installed so that a connection to Google’s servers will not be established in conjunction with this application.
 
+### Google Maps
+
+Via an API, this website uses the mapping service Google Maps. The provider is Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
+
+To enable the use of the Google Maps features, your IP address must be stored. As a rule, this information is transferred to one of Google’s servers in the United States, where it is archived. The operator of this website has no control over the data transfer.
+
+We use Google Maps to present our online content in an appealing manner and to make the locations disclosed on our website easy to find. This constitutes a legitimate interest as defined in Art. 6 Sect. 1 lit. f GDPR.
+
+For more information on the handling of user data, please review Google’s Data Privacy Declaration under: https://policies.google.com/privacy?hl=en.
+
+### Google reCAPTCHA
+
+We use “Google reCAPTCHA” (hereinafter referred to as “reCAPTCHA”) on our websites. The provider is Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”).
+
+The purpose of reCAPTCHA is to determine whether data entered on our websites (e.g. information entered into a contact form) is being provided by a human user or by an automated program. To determine this, reCAPTCHA analyses the behaviour of the website visitors based on a variety of parameters. This analysis is triggered automatically as soon as the website visitor enters the site. For this analysis, reCAPTCHA evaluates a variety of data (e.g. IP address, time the website visitor spent on the site or cursor movements initiated by the user). The data tracked during such analyses are forwarded to Google.
+
+reCAPTCHA analyses run entirely in the background. Website visitors are not alerted that an analysis is underway.
+
+The data is processed on the basis of Art. 6 Sect. 1 lit. f GDPR. It is in the website operators legitimate interest, to protect the operator’s web content against misuse by automated industrial espionage systems and against SPAM.
+
+For more information about Google reCAPTCHA and to review the Data Privacy Declaration of Google, please follow these links: https://policies.google.com/privacy?hl=en and https://www.google.com/recaptcha/intro/android.html.
+
 ### Retrieval of profile pictures from Gravatar
 
-In order to display the logged-in visitor on the internal [typo3.org](http://typo3.org/) area, as well as for displaying the author picture in the news area and user listings the online service Gravatar by Automattic Inc.  
-60 29th Street #343  
-San Francisco, CA 94110  
-United States of America, is used.
+We use in our online offer, for example in the internal area of typo3.org, the service Gravatar of
 
-Gravatar is a service where users can log in and store profile images and their email addresses. If users use the respective email address on other online services to comment or publish content their profile pictures can be displayed next to the posts or activities. For this purpose, the email address provided by the users is sent to Gravatar to check whether a profile is connected with it. This is the only purpose of transmitting the email address. Email addresses are not used for other purposes and deleted afterwards.
+Automattic Inc.,  
+60 29th Street #343,  
+San Francisco, CA 94110, USA.
 
-The use of Gravatar is based on our legitimate interests in the sense of Art. 6 Sect. 1 lit. f GDPR. With the help of Gravatar we offer the news authors as well as the users of the internal area the chance to personalize their contributions and their commitment to TYPO3 with a profile picture.
+Gravatar is a service where users can log in and store profile images and their email addresses. If users with the respective email address on other online presences (especially in blogs) leave contributions or comments, so their profile pictures can be displayed next to the posts or comments. For this purpose, the email address provided by the users is sent to Gravatar to check whether a profile is stored to it. This is the only purpose of transmitting the email address and it is not used for other purposes but deleted thereafter.
 
-In order to display the images Gravatar finds out the user’s IP address as this is necessary for the communication between the browser and the online service.Further information on the collection and use of the data by Gravatar can be found in the privacy policy of Automattic Inc.: [https://automattic.com/privacy/](https://automattic.com/privacy/).
+The use of Gravatar is based on our legitimate interests in the sense of art. 6 Abs. 1 lit. f) DSGVO, since with the help of Gravatar we offer the contribution and comment writers the possibility to personalize their contributions with a profile picture.
 
-If users do not want a user image linked to their email address at Gravatar in the internal TYPO3 area or other frontend services, an email address not stored at Gravatar should be used to register. We also point out that it is possible to use an anonymous email address if users do not want their own email address transmitted to Gravatar. Users can completely prevent the transfer of data by not using our internal service area and don't post any news articles.
+By displaying the images Gravatar brings the IP address of the users in experience, as this is necessary for a communication between a browser and an online service. Further information on the collection and use of the data by Gravatar can be found in the privacy policy of Automattic Inc.: https://automattic.com/privacy/.
 
-### Google Tag Manager
-
-This website uses the Google Tag Manager. This solution offers the possibility to manage all website tags via one interface. No cookies are set, only tags that do not collect personal data. The tag manager may be able to activate other tags that may collect data. However, the Google Tag Manager cannot retrieve and evaluate such data. Set domain or cookie deactivations remain for all Google Tracking Tags. 
-
-The use of the Google Tag Manager is in the interest of presenting an optimized online offering. This constitutes a legitimate interest within the meaning of Art. 6 Sect. 1 lit. f GDPR. 
-
-More information on the handling of user data can be found in the Google Tag Manager privacy policy: [http://www.google.de/tagmanager/use-policy.html](http://www.google.de/tagmanager/use-policy.html)
-
-## 9. Payment service providers and resellers
-
-### PayPal
-
-Among other options, we offer payment via PayPal on this website. The provider of this payment processing service is PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (hereinafter referred to as „PayPal“).
-
-If you choose payment via PayPal, we will share the payment information you enter with PayPal.
-
-The legal basis for the sharing of your data with PayPal is Art. 6 Sect. 1 lit. a GDPR (consent) as well as Art. 6 Sect. 1 lit. b GDPR (processing for the fulfilment of a contract). You have the option to at any time revoke your consent to the processing of your data. Such a revocation shall not have any impact on the effectiveness of data processing transactions that occurred in the past. 
-
-**Last update: 13.08.2019**
+If users do not want a user image linked to their email address at Gravatar in the internal TYPO3 area appears, you should for the internal TYPO3 area use an email address that is not stored at Gravatar. We also point out that it is possible to use an anonymous email address if users do not wish their own email address to be sent to Gravatar. Users can completely prevent the transfer of data by not using our internal service area.
