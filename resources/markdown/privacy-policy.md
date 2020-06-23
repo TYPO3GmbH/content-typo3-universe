@@ -378,7 +378,7 @@ After you unsubscribe from the newsletter distribution list, your email address 
 
 TYPO3 GmbH uses HubSpot for online marketing activities and website analysis purposes. HubSpot is an integrated software solution that covers various online marketing concepts.
 
-#### These include:
+These include:
 
 * Content management (website and blog)
 * Email marketing (newsletter as well as automated mailings, e.g. for the provision of downloads)
@@ -393,7 +393,7 @@ The CRM HubSpot is located on the servers of our software partner HubSpot, which
 
 The website user data will be stored on the servers and will be used by us to connect with visitors to our website and to determine which services our company is interested in. This ensures that the website receives more accurate information for users.
 
-The purpose of the collected data is the optimization of our offer. The corresponding legal basis is based on Article 6 paragraph 1 lit. f (legitimate interest). The data collected is subject to our privacy policy.
+The purpose of the collected data is the optimization of our offer. The corresponding legal basis is based on Article 6 paragraph 1 lit. f (legitimate interest). **The data collected is subject to our privacy policy.**
 
 ### HubSpot cookies
 
