@@ -23,7 +23,7 @@ Olivier Dobberkau, Ric van Westhreenen, Stefan Busemann
 
 ## Register Entry
 
-Entry in Handelsregister
+Entry in Handelsregister  
 Register Number: 77950  
 Register Court: Amtsgericht Düsseldorf
 

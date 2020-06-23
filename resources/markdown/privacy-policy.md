@@ -39,7 +39,7 @@ The host is used for the purpose of fulfilling the contract with our potential a
 
 Our host will only process your data to the extent necessary to fulfil its performance obligations and to follow our instructions with respect to such data.
 
-**Execution of a contract data processing agreement**
+**Execution of a contract data processing agreement**  
 In order to guarantee processing in compliance with data protection regulations, we have concluded an order processing contract with our host.
 
 ## 3. General information and mandatory information
@@ -56,12 +56,12 @@ We herewith advise you that the transmission of data via the Internet (i.e. thro
 
 The data processing controller on this website is:
 
-TYPO3 GmbH
-Emanuel-Leutze-Str. 11
-40547 Düsseldorf
+TYPO3 GmbH  
+Emanuel-Leutze-Str. 11  
+40547 Düsseldorf  
 Germany
 
-Phone: +49 211 205436-0
+Phone: +49 211 205436-0  
 Email: info@typo3.com
 
 The controller is the natural person or legal entity that single-handedly or jointly with others makes decisions as to the purposes of and resources for the processing of personal data (e.g. names, email addresses, etc.).
@@ -72,12 +72,13 @@ We have appointed a data protection officer for our company.
 
 The data protection officer of TYPO3 GmbH is provided by:
 
-Computer-Zauber
-Dipl.-Ing. Karen Falkenberg
-Erlentiefenstr. 54
-59192 Bergkamen
-Germany
-Phone: +49 2307 80102
+Computer-Zauber  
+Dipl.-Ing. Karen Falkenberg  
+Erlentiefenstr. 54  
+59192 Bergkamen  
+Germany  
+
+Phone: +49 2307 80102  
 Email: datenschutz@computer-zauber.de
 
 ### Revocation of your consent to the processing of data
@@ -120,11 +121,11 @@ Within the scope of the applicable statutory provisions, you have the right to a
 
 You have the right to demand the imposition of restrictions as far as the processing of your personal data is concerned. To do so, you may contact us at any time at the address provided in section “Information Required by Law.” The right to demand restriction of processing applies in the following cases:
 
--   In the event that you should dispute the correctness of your data archived by us, we will usually need some time to verify this claim. During the time that this investigation is ongoing, you have the right to demand that we restrict the processing of your personal data.
--   If the processing of your personal data was/is conducted in an unlawful manner, you have the option to demand the restriction of the processing of your data in lieu of demanding the eradication of this data.
--   If we do not need your personal data any longer and you need it to exercise, defend or claim legal entitlements, you have the right to demand the restriction of the processing of your personal data instead of its eradication.
--   If you have raised an objection pursuant to Art. 21 Sect. 1 GDPR, your rights and our rights will have to be weighed against each other. As long as it has not been determined whose interests prevail, you have the right to demand a restriction of the processing of your personal data.
--   If you have restricted the processing of your personal data, these data – with the exception of their archiving – may be processed only subject to your consent or to claim, exercise or defend legal entitlements or to protect the rights of other natural persons or legal entities or for important public interest reasons cited by the European Union or a member state of the EU.
+* In the event that you should dispute the correctness of your data archived by us, we will usually need some time to verify this claim. During the time that this investigation is ongoing, you have the right to demand that we restrict the processing of your personal data.
+* If the processing of your personal data was/is conducted in an unlawful manner, you have the option to demand the restriction of the processing of your data in lieu of demanding the eradication of this data.
+* If we do not need your personal data any longer and you need it to exercise, defend or claim legal entitlements, you have the right to demand the restriction of the processing of your personal data instead of its eradication.
+* If you have raised an objection pursuant to Art. 21 Sect. 1 GDPR, your rights and our rights will have to be weighed against each other. As long as it has not been determined whose interests prevail, you have the right to demand a restriction of the processing of your personal data.
+* If you have restricted the processing of your personal data, these data – with the exception of their archiving – may be processed only subject to your consent or to claim, exercise or defend legal entitlements or to protect the rights of other natural persons or legal entities or for important public interest reasons cited by the European Union or a member state of the EU.
 
 ### Rejection of unsolicited emails
 
@@ -152,11 +153,11 @@ This website uses the cookie consent technology of Usercentrics to obtain your c
 
 Whenever you visit our website, the following personal data will be transferred to Usercentrics:
 
--   Your declaration(s) of consent or your revocation of your declaration(s) of consent
--   Your IP address
--   Information about your browser
--   Information about your device
--   The date and time you visited our website
+* Your declaration(s) of consent or your revocation of your declaration(s) of consent
+* Your IP address
+* Information about your browser
+* Information about your device
+* The date and time you visited our website
 
 Moreover, Usercentrics shall store a cookie in your browser to be able to allocate your declaration(s) of consent or any revocations of the former. The data that are recorded in this manner shall be stored until you ask us to eradicate them, delete the Usercentrics cookie or until the purpose for archiving the data no longer exists. This shall be without prejudice to any mandatory legal retention periods.
 
@@ -170,12 +171,12 @@ Our company has executed a Contract Data Processing Agreement with Usercentrics.
 
 The provider of this website and its pages automatically collects and stores information in so-called server log files, which your browser communicates to us automatically. The information comprises:
 
--   The type and version of browser used
--   The used operating system
--   Referrer URL
--   The hostname of the accessing computer
--   The time of the server inquiry
--   The IP address
+* The type and version of browser used
+* The used operating system
+* Referrer URL
+* The hostname of the accessing computer
+* The time of the server inquiry
+* The IP address
 
 This data is not merged with other data sources.
 
@@ -379,12 +380,12 @@ TYPO3 GmbH uses HubSpot for online marketing activities and website analysis pur
 
 #### These include:
 
--   Content management (website and blog)
--   Email marketing (newsletter as well as automated mailings, e.g. for the provision of downloads)
--   Social media publishing & reporting
--   Reporting (e.g. traffic sources, accesses, etc. ...)
-    contact management (e.g. user segmentation & CRM)
--   Landing pages and contact forms
+* Content management (website and blog)
+* Email marketing (newsletter as well as automated mailings, e.g. for the provision of downloads)
+* Social media publishing & reporting
+* Reporting (e.g. traffic sources, accesses, etc. ...)
+* Contact management (e.g. user segmentation & CRM)
+* Landing pages and contact forms
 
 The registration service allows visitors to find out more about the content management system TYPO3, appropriate content is provided and offered for download. The contact information of the prospective customer or the TYPO3 Association member as well as demographic information will be provided.
 
@@ -400,22 +401,18 @@ HubSpot CRM uses web beacons and cookies that are stored on your computer to all
 
 However, you have the option to set your browser to notify you when you receive a cookie. Then you can decide for yourself whether you accept it or not.
 
-Firefox (Windows): → Tools → Settings → Privacy → Create History for Custom Settings
-
-Firefox (Linux): → Edit → Settings → Privacy → Create history according to user-defined settings
-
-Internet Explorer: → Tools → Internet Options → Privacy → Advanced
+* Firefox (Windows): → Tools → Settings → Privacy → Create History for Custom Settings
+* Firefox (Linux): → Edit → Settings → Privacy → Create history according to user-defined settings
+* Internet Explorer: → Tools → Internet Options → Privacy → Advanced
 
 For detailed information about how Hubspot works, refer to Hubspot Inc.'s Privacy Policy at: http://legal.hubspot.com/privacy-policy
 
 The software company HubSpot is based in the US, with a branch in Ireland.
 
-HubSpot
-2nd Floor 30 North Wall Quay
-Dublin 1, Ireland,
+HubSpot  
+2nd Floor 30 North Wall Quay  
+Dublin 1, Ireland,  
 Phone: +353 1 5187500.
-• HubSpot Privacy Policy »
-• EU Privacy Policy HubSpot »
 
 ## 8. Plug-ins and Tools
 
@@ -478,8 +475,8 @@ For more information about Google reCAPTCHA please refer to the Google Data Priv
 
 We use in our online offer, for example in the internal area of typo3.org, the service Gravatar of
 
-Autolanguic Inc.,
-60 29th Street #343,
+Automattic Inc.,  
+60 29th Street #343,  
 San Francisco, CA 94110, USA.
 
 Gravatar is a service where users can log in and store profile images and their email addresses. If users with the respective email address on other online presences (especially in blogs) leave contributions or comments, so their profile pictures can be displayed next to the posts or comments. For this purpose, the email address provided by the users is sent to Gravatar to check whether a profile is stored to it. This is the only purpose of transmitting the email address and it is not used for other purposes but deleted thereafter.
