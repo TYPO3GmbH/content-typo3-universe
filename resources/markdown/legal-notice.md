@@ -32,9 +32,10 @@ Register Court: Amtsgericht Düsseldorf
 Sales tax identification number according to § 27 a of the Sales Tax Law:  
 DE 815 655 651
 
-Responsible for the content according to § 55(2) RStV  
-TYPO3 GmbH  
-Emanuel-Leutze-Str. 11  
+## Person responsible for editorial
+Mathias Schreiber
+TYPO3 GmbH
+Emanuel-Leutze-Str. 11
 40547 Düsseldorf
 Germany
 
