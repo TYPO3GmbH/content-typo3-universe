@@ -6,20 +6,20 @@
 
 The following information will provide you with an easy to navigate overview of what will happen with your personal data when you visit this website. The term “personal data” comprises all data that can be used to personally identify you. For detailed information about the subject matter of data protection, please consult our Data Protection Declaration, which we have included beneath this copy.
 
-### Data recording on our website
+### Data recording on this website
 
-**Who is the responsible party for the recording of data on this website (i.e. the “controller”)?**  
+**Who is the responsible party for the recording of data on this website (i.e. the “controller”)?**
 The data on this website is processed by the operator of the website, whose contact information is available under section “Information Required by Law” on this website.
 
-**How do we record your data?**  
+**How do we record your data?**
 We collect your data as a result of your sharing of your data with us. This may, for instance be information you enter into our contact form.
 
 Other data shall be recorded by our IT systems automatically or after you consent to its recording during your website visit. This data comprises primarily technical information (e.g. web browser, operating system or time the site was accessed). This information is recorded automatically when you access this website.
 
-**What are the purposes we use your data for?**  
+**What are the purposes we use your data for?**
 A portion of the information is generated to guarantee the error free provision of the website. Other data may be used to analyze your user patterns.
 
-**What rights do you have as far as your information is concerned?**  
+**What rights do you have as far as your information is concerned?**
 You have the right to receive information about the source, recipients and purposes of your archived personal data at any time without having to pay a fee for such disclosures. You also have the right to demand that your data are rectified or eradicated. If you have consented to data processing, you have the option to revoke this consent at any time, which shall affect all future data processing. Moreover, you have the right to demand that the processing of your data be restricted under certain circumstances. Furthermore, you have the right to log a complaint with the competent supervising agency.
 
 Please do not hesitate to contact us at any time under the address disclosed in section “Information Required by Law” on this website if you have questions about this or any other data protection related issues.
@@ -39,7 +39,7 @@ The host is used for the purpose of fulfilling the contract with our potential a
 
 Our host will only process your data to the extent necessary to fulfil its performance obligations and to follow our instructions with respect to such data.
 
-**Execution of a contract data processing agreement**  
+**Execution of a contract data processing agreement**
 In order to guarantee processing in compliance with data protection regulations, we have concluded an order processing contract with our host.
 
 ## 3. General information and mandatory information
@@ -56,12 +56,12 @@ We herewith advise you that the transmission of data via the Internet (i.e. thro
 
 The data processing controller on this website is:
 
-TYPO3 GmbH  
-Emanuel-Leutze-Str. 11  
-40547 Düsseldorf  
+TYPO3 GmbH
+Emanuel-Leutze-Str. 11
+40547 Düsseldorf
 Germany
 
-Phone: +49 211 205436-0  
+Phone: +49 211 205436-0
 Email: info@typo3.com
 
 The controller is the natural person or legal entity that single-handedly or jointly with others makes decisions as to the purposes of and resources for the processing of personal data (e.g. names, email addresses, etc.).
@@ -72,13 +72,13 @@ We have appointed a data protection officer for our company.
 
 The data protection officer of TYPO3 GmbH is provided by:
 
-Computer-Zauber  
-Dipl.-Ing. Karen Falkenberg  
-Erlentiefenstr. 54  
-59192 Bergkamen  
-Germany  
+Computer-Zauber
+Dipl.-Ing. Karen Falkenberg
+Erlentiefenstr. 54
+59192 Bergkamen
+Germany
 
-Phone: +49 2307 80102  
+Phone: +49 2307 80102
 Email: datenschutz@computer-zauber.de
 
 ### Revocation of your consent to the processing of data
@@ -409,9 +409,9 @@ For detailed information about how Hubspot works, refer to Hubspot Inc.'s Privac
 
 The software company HubSpot is based in the US, with a branch in Ireland.
 
-HubSpot  
-2nd Floor 30 North Wall Quay  
-Dublin 1, Ireland,  
+HubSpot
+2nd Floor 30 North Wall Quay
+Dublin 1, Ireland,
 Phone: +353 1 5187500.
 
 ## 8. Plug-ins and Tools
@@ -435,8 +435,8 @@ For more information on how YouTube handles user data, please consult the YouTub
 ### Vimeo Without Tracking (Do-Not-Track)
 
 This website uses plugins of the Vimeo video portal. The provider is Vimeo Inc., 555 West 18th Street, New York, New York 10011, USA.
-
-Whenever you visit one of our pages featuring Vimeo videos, a connection with the servers of Vimeo is established. In conjunction with this, the Vimeo server receives information about which of our sites you have visited. Vimeo also receives your IP address. However, we have set up Vimeo in such a way that Vimeo cannot track your user activities and does not place any cookies.
+Whenever you visit one of our pages featuring Vimeo videos, a connection with the servers of Vimeo is established. In conjunction with this, the Vimeo server receives information about which of our sites you have visited. Vimeo also receives your IP
+address. However, we have set up Vimeo in such a way that Vimeo cannot track your user activities and does not place any cookies.
 
 We use Vimeo to make our online presentation attractive for you. This is a legitimate interest on our part pursuant to Art. 6 Abs. 1 lit. et seq. GDPR. If a respective declaration of consent was requested (e.g. concerning the storage of cookies), processing shall occur exclusively on the basis of Art. 6 Sect. 1 lit. a GDPR; the given consent may be revoked at any time.
 
@@ -467,7 +467,8 @@ We use “Google reCAPTCHA” (hereinafter referred to as “reCAPTCHA”) on th
 The purpose of reCAPTCHA is to determine whether data entered on this website (e.g. information entered into a contact form) is being provided by a human user or by an automated program. To determine this, reCAPTCHA analyzes the behavior of the website visitors based on a variety of parameters. This analysis is triggered automatically as soon as the website visitor enters the site. For this analysis, reCAPTCHA evaluates a variety of data (e.g. IP address, time the website visitor spent on the site or cursor movements initiated by the user). The data tracked during such analyses are forwarded to Google.
 
 reCAPTCHA analyses run entirely in the background. Website visitors are not alerted that an analysis is underway.
-Data are stored and analyzed on the basis of Art. 6 Sect. 1 lit. f GDPR. The website operator has a legitimate interest in the protection of the operator’s websites against abusive automated spying and against SPAM. If a respective declaration of consent has been obtained, the data will be processed exclusively on the basis of Art. 6 Sect. 1 lit. a GDPR. Any such consent may be revoked at any time.
+
+Data are stored and analyzed on the basis of Art. 6 Sect. 1 lit. f GDPR. The website operator has a legitimate interest in the protection of the operator’s websites against abusive automated spying and against SPAM. If a respective declaration of consent has been obtained, the data will be processed exclusively on the basis of Art. 6 Sect.
 
 For more information about Google reCAPTCHA please refer to the Google Data Privacy Declaration and Terms Of Use under the following links: https://policies.google.com/privacy?hl=en and https://policies.google.com/terms?hl=en.
 
@@ -475,13 +476,13 @@ For more information about Google reCAPTCHA please refer to the Google Data Priv
 
 We use in our online offer, for example in the internal area of typo3.org, the service Gravatar of
 
-Automattic Inc.,  
-60 29th Street #343,  
+Automattic Inc.,
+60 29th Street #343,
 San Francisco, CA 94110, USA.
 
 Gravatar is a service where users can log in and store profile images and their email addresses. If users with the respective email address on other online presences (especially in blogs) leave contributions or comments, so their profile pictures can be displayed next to the posts or comments. For this purpose, the email address provided by the users is sent to Gravatar to check whether a profile is stored to it. This is the only purpose of transmitting the email address and it is not used for other purposes but deleted thereafter.
 
-The use of Gravatar is based on our legitimate interests in the sense of art. 6 Abs. 1 lit. f) DSGVO, since with the help of Gravatar we offer the contribution and comment writers the possibility to personalize their contributions with a profile picture.
+The use of Gravatar is based on our legitimate interests in the sense of Art. 6 Sect. 1 lit. f) DSGVO, since with the help of Gravatar we offer the contribution and comment writers the possibility to personalize their contributions with a profile picture.
 
 By displaying the images Gravatar brings the IP address of the users in experience, as this is necessary for a communication between a browser and an online service. Further information on the collection and use of the data by Gravatar can be found in the privacy policy of Automattic Inc.: https://automattic.com/privacy/.
 
@@ -489,7 +490,7 @@ If users do not want a user image linked to their email address at Gravatar in t
 
 ### Keycloak
 
-For creating a customer account or for registration on our website, you can use the Keycloak service. We use Keycloak as a self-hosted single sign-on service. All data is processed exclusively on our servers.
+For creating a customer account or for registration on our website, you can use the Keycloak service. We use Keycloak as a self-hosted single sign-on procedure. All data is processed exclusively on our servers.
 These actions are taken on the basis of Art. 6 Sect. 1 lit. f GDPR.
 
 ## 9. E-commerce and payment service providers
@@ -498,7 +499,7 @@ These actions are taken on the basis of Art. 6 Sect. 1 lit. f GDPR.
 
 We collect, process and use personal data only to the extent necessary for the establishment, content organization or change of the legal relationship (data inventory). These actions are taken on the basis of Art. 6 Sect. 1 lit. b GDPR, which permits the processing of data for the fulfilment of a contract or pre-contractual actions. We collect, process and use personal data concerning the use of this website (usage data) only to the extent that this is necessary to make it possible for users to utilize the services and to bill for them.
 
-The collected customer data shall be eradicated upon completion of the order or the termination of the business relationship. All this shall be without prejudice to any statutory retention mandates.
+The collected customer data shall be eradicated upon completion of the order or the termination of the business relationship. This shall be without prejudice to any statutory retention mandates.
 
 ### Data transfer upon closing of contracts for online stores, retailers and the shipment of merchandise
 
@@ -514,6 +515,14 @@ Any further transfer of data shall not occur or shall only occur if you have exp
 
 The basis for the processing of data is Art. 6 Sect. 1 lit. b GDPR, which permits the processing of data for the fulfilment of a contract or for pre-contractual actions.
 
+### Stripe
+
+Among other services, we offer payment processing via Stripe on this website. The provider for customers within the EU is Stripe Payments Europe, Ltd.,1 Grand Canal Street Lower, Grand Canal Dock, Dublin, Ireland (hereinafter referred to as “Stripe”).
+
+When you make a payment using Stripe, your payment data are forwarded to Stripe via an interface on our website so that the payment can be processed. For details about this process, please consult Stripe’s Data Protection Policy under the following link: https://stripe.com/de/privacy.
+
+Your data are transferred to Stripe on the basis of Art. 6 Sect. 1 lit. b GDPR (contract management) as well as based on our legitimate interest in the use of dependable and secure payment processes (Art. 6 Sect. 1 lit. f GDPR).
+
 ### PayPal
 
 Among other options, we offer payment via PayPal on this website. The provider of this payment processing service is PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (hereinafter referred to as “PayPal”).
@@ -524,9 +533,9 @@ The legal basis for the sharing of your data with PayPal is Art. 6 Sect. 1 lit. 
 
 ### Evaluation reminder
 
-We will generate a rating reminder using your email address for a one-time reminder to submit a rating of your order. In the email we refer to the rating system we use. You have given your consent in accordance with Art. 6 Para. 1 lit. a GDPR by agreeing to the general terms and conditions.
+We will generate a rating reminder using your email address for a one-time reminder to submit a rating of your order. In the mail we refer to the rating system we use. You have given your consent in accordance with Art. 6 Para. 1 lit. a DSGVO by agreeing to the general terms and conditions.
 
-You can revoke your consent at any time by email to info@typo3.com.
+You can revoke your consent at any time by e-mail to info@typo3.com.
 
 ## 10. Online-based Audio and Video Conferences (Conference tools)
 
