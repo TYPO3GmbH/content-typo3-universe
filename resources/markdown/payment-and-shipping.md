@@ -4,6 +4,8 @@
 
 We generally accept the following payment methods: cash in advance, credit card and payment through Paypal. We reserve the right not to accept certain payment methods for a given order and to refer to other payment methods. You are responsible for any costs associated with money transactions.
 
+All recurring payments using Credit Card and SEPA Direct Debit are handled via Stripe Inc.
+
 In the case of credit card purchases, your card will be charged when you place your order.
 
 You consent to receiving invoices and credits solely in electronic form.
