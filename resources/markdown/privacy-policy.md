@@ -493,11 +493,11 @@ If users do not want a user image linked to their email address at Gravatar in t
 For creating a customer account or for registration on our website, you can use the Keycloak service. We use Keycloak as a self-hosted single sign-on procedure. All data is processed exclusively on our servers.
 These actions are taken on the basis of Art. 6 Sect. 1 lit. f GDPR.
 
-## 9. E-commerce and payment service providers
+## 9. Merchandise Management System, eCommerce and payment service providers
 
 ### Processing of data (customer and contract data)
 
-We collect, process and use personal data only to the extent necessary for the establishment, content organization or change of the legal relationship (data inventory). These actions are taken on the basis of Art. 6 Sect. 1 lit. b GDPR, which permits the processing of data for the fulfilment of a contract or pre-contractual actions. We collect, process and use personal data concerning the use of this website (usage data) only to the extent that this is necessary to make it possible for users to utilize the services and to bill for them.
+We collect, process, and use personal data only to the extent necessary for the establishment, content organization or change of the legal relationship (data inventory). These actions are taken on the basis of Art. 6 Sect. 1 lit. b GDPR, which permits the processing of data for the fulfilment of a contract or pre-contractual actions. We collect, process, and use personal data concerning the use of this website (usage data) only to the extent that this is necessary to make it possible for users to utilize the services and to bill for them.
 
 The collected customer data shall be eradicated upon completion of the order or the termination of the business relationship. This shall be without prejudice to any statutory retention mandates.
 
@@ -515,21 +515,29 @@ Any further transfer of data shall not occur or shall only occur if you have exp
 
 The basis for the processing of data is Art. 6 Sect. 1 lit. b GDPR, which permits the processing of data for the fulfilment of a contract or for pre-contractual actions.
 
-### Stripe
+### Payment services
 
-Among other services, we offer payment processing via Stripe on this website. The provider for customers within the EU is Stripe Payments Europe, Ltd.,1 Grand Canal Street Lower, Grand Canal Dock, Dublin, Ireland (hereinafter referred to as “Stripe”).
+We integrate payment services of third-party companies on our website. When you make a purchase from us, your payment data (e.g. name, payment amount, bank account details, credit card number) are processed by the payment service provider for the purpose of payment processing. For these transactions, the respective contractual and data protection provisions of the respective providers apply. The use of the payment service providers is based on Art. 6(1)(b) GDPR (contract processing) and in the interest of a smooth, convenient, and secure payment transaction (Art. 6(1)(f) GDPR). Insofar as your consent is requested for certain actions, Art. 6(1)(a) GDPR is the legal basis for data processing; consent may be revoked at any time for the future.
 
-When you make a payment using Stripe, your payment data are forwarded to Stripe via an interface on our website so that the payment can be processed. For details about this process, please consult Stripe’s Data Protection Policy under the following link: https://stripe.com/de/privacy.
+We use the following payment services / payment service providers within the scope of this website:
 
-Your data are transferred to Stripe on the basis of Art. 6 Sect. 1 lit. b GDPR (contract management) as well as based on our legitimate interest in the use of dependable and secure payment processes (Art. 6 Sect. 1 lit. f GDPR).
+**PayPal**
 
-### PayPal
+The provider of this payment service is PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (hereinafter "PayPal").
 
-Among other options, we offer payment via PayPal on this website. The provider of this payment processing service is PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (hereinafter referred to as “PayPal”).
+Data transmission to the US is based on the Standard Contractual Clauses (SCC) of the European Commission. Details can be found here: https://www.paypal.com/de/webapps/mpp/ua/pocpsa-full.
 
-If you choose payment via PayPal, we will share the payment information you enter with PayPal.
+Details can be found in PayPal’s privacy policy: https://www.paypal.com/de/webapps/mpp/ua/privacy-full.
 
-The legal basis for the sharing of your data with PayPal is Art. 6 Sect. 1 lit. a GDPR (consent) as well as Art. 6 Sect. 1 lit. b GDPR (processing for the fulfilment of a contract). You have the option to at any time revoke your consent to the processing of your data. Such a revocation shall not have any impact on the effectiveness of data processing transactions that occurred in the past.
+**Stripe**
+
+In addition to payment services, we use Stripe as a merchandise management system, e.g. for billing, reminders, etc....
+
+The provider for customers within the EU is Stripe Payments Europe, Ltd,1 Grand Canal Street Lower, Grand Canal Dock, Dublin, Ireland (hereinafter “Stripe”).
+
+Data transmission to the US is based on the Standard Contractual Clauses (SCC) of the European Commission. Details can be found here: https://stripe.com/de/privacy and https://stripe.com/de/guides/general-data-protection-regulation.
+
+Details can be found in Stripe’s Privacy Policy at the following link: https://stripe.com/de/privacy.
 
 ### Evaluation reminder
 
