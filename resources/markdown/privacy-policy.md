@@ -26,7 +26,7 @@ Please do not hesitate to contact us at any time if you have questions about thi
 
 ### Analysis tools and tools provided by third parties
 
-There is a possibility that your browsing patterns will be statistically analyzed when your visit this website. Such analyses are performed primarily with what we refer to as analysis programs.  
+There is a possibility that your browsing patterns will be statistically analyzed when you visit this website. Such analyses are performed primarily with what we refer to as analysis programs.  
 
 For detailed information about these analysis programs please consult our Data Protection Declaration below.  
 
