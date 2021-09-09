@@ -3,6 +3,8 @@
 Standard Terms and Conditions (T&Cs) for orders placed online at typo3.com, typo3.org and its respective subdomains, from here on referred to as "our websites".
 We would like to familiarise you below with our standard terms and conditions, which govern how we process and settle your purchases.
 
+The specific Terms and Conditions for our Extended Long Term Support (ELTS) service can be accessed [here](https://typo3.com/products/extended-support/typo3-cms-elts-terms-and-conditions).
+
 Our websites offer "Digital Products and Services", "TYPO3 Association memberships", "TYPO3 merchandise" and "TYPO3 partner merchandise" for sale and subscription respectively, from here on referred to as "products" and "partner products".
 Products are all products that we offer on typo3.com, unless we advise that they are partner products.
 
