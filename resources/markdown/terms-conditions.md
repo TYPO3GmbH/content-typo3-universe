@@ -98,7 +98,147 @@ I/we (*) hereby revoke the contract concluded by me/us (*) to purchase the follo
 
 Any refunds are paid automatically to the account you used for payment. For payments on account and advance payment by funds transfer, the refund will be sent to the account from which the payment was made. If you paid by Paypal/credit card, the refund will be sent to your Paypal/credit card account. If you used a gift voucher for your purchase, we will credit the relevant amount to your gift voucher account.
 
-## 8. Customer Care
+## 8. ELTS
+
+### 8.1 Scope
+
+This document describes the deliverables for an extended support agreement for TYPO3 CMS 7.6, TYPO3 CMS 8.7, and TYPO3 CMS 9.5. It defines the terms of service for extended support in order to provide customers with more time to plan or fulfill a migration to TYPO3 CMS 10, TYPO3 CMS 11 or higher.
+The initial time frame is planned to extend the support for an additional 3 years, ending respectively on:      
+              
+ELTS 7.6: 1st year - November 30, 2019
+<br />ELTS 7.6: 2nd year - November 30, 2020
+<br />ELTS 7.6: 3rd year - November 30, 2021
+<br />eELTS 7.6: 4th year - November 30, 2022
+
+ELTS 8.7: 1st year - March 31, 2021
+<br />ELTS 8.7: 2nd year - March 31, 2022
+<br />ELTS 8.7: 3rd year - March 31, 2023
+
+ELTS 9.5: 1st year - September 30, 2022
+<br />ELTS 9.5: 2nd year - September 30, 2023
+<br />ELTS 9.5: 3rd year - September 30, 2024
+
+The extended support for any of the aforementioned versions might be extended beyond the given dates, although this is neither planned nor wanted at this point!
+
+**8.1.1.  Customer Commitment**
+
+* The customer gains read-access to a private repository that can be accessed either via a web interface using user name  and password or via command line by providing a public SSH key.
+* The customer commits to using the provided source code only within the limits of the package subscribed to.
+* The customer commits to not disclosing and/or exploiting issues known by having access to the private repository.
+Violating these rules will end the agreement.
+
+**8.1.2.  Support Team Commitment**
+
+* The team commits to supplying fixes as outlined below a.s.a.p.
+* The team commits to informing all subscribers a.s.a.p. via email to allow proper planning of rollouts
+* The team commits to using the generated funds for supporting TYPO3 7.6, TYPO3 8.7, and TYPO3 9.5 and excess funds for further TYPO3 CMS development
+
+**8.1.3 Security Patches**
+
+Security issues that have been reported or fixed in the currently maintained TYPO3 CMS versions (10 and 11) will be backported to TYPO3 CMS 7.6, TYPO3 CMS 8.7, and TYPO3 CMS 9.5, and made available in the private repository. See Notification down below for more details.
+This service is included in the agreement
+
+**8.1.4. Browser Compatibility**
+
+Each major release of the following browsers will be tested against the latest TYPO3 version using a combination of automated and manual tests for ELTS 7.6, ELTS 8.7, and ELTS 9.5:
+
+* Google Chrome (latest) incl. Google for Businesses (latest)
+* Apple Safari (latest) (Mac only)
+* Opera (latest)
+* Microsoft Edge (latest)
+* Microsoft Internet Explorer (latest)
+* Mozilla Firefox (latest)
+
+The team ensures the backend of TYPO3 CMS 7.6, TYPO3 CMS 8.7, and ELTS 9.5 supports these browsers. This service is included in the agreement.
+
+**8.1.5. Duration**
+
+The ELTS plans provided by the TYPO3 GmbH each have a total runtime of three years.
+This total runtime is split into three fixed terms that are available for subscription separately and combined:
+
+* ELTS 7.6: 1st year - December 1, 2018 to November 30, 2019 
+* ELTS 7.6: 2nd year - December 1, 2019 to November 30, 2020 
+* ELTS 7.6: 3rd year - December 1, 2020 to November 30, 2021 
+
+* ELTS 8.7: 1st year - April 1, 2020 to March 31, 2021
+* ELTS 8.7: 2nd year - April 1, 2021 to March 31, 2022
+* ELTS 8.7: 3rd year - April 1, 2022 to March 31, 2023
+
+* ELTS 9.5: 1st year - October 1, 2021 to September 30, 2022
+* ELTS 9.5: 2nd year - October 1, 2022 to September 30, 2023
+* ELTS 9.5: 3rd year - October 1, 2023 to September 30, 2024
+
+**8.1.6. 3rd Party Extension Support**
+
+Priority support for 3rd party code can be requested by a customer and the workload will be estimated by the team.
+All subscribers to the agreement will be informed about the expected workload and the problem with the 3rd party extension. This way the investment can be split up for customers interested in fixing the issue.
+All customers sponsoring the fix will get access to a separate private repository hosting the respective 3rd party extension.
+A list of all adopted 3rd party extensions will be available to all customers. If a customer requests access to a repository they did not have access to earlier, the cost will be split up and refunded to the other customers accordingly.
+This refund can be acquired in one of the following ways:
+
+* Refund to bank account by end of the agreement of the respective versions for ELTS 7.6, ELTS 8.7 or ELTS 9.5.
+* Refund can be used in case another sponsoring is requested. Same rules as above apply.
+* Refund can be used to sponsor the development of TYPO3 CMS 11+
+This service is **not** included in the support plan.
+
+### 8.2 Notification
+
+All customers and/or their respective TYPO3 agencies will be notified on the following occasions:
+
+* A security incident has been reported or was found.
+* This report may contain a time frame for resolving the problem.
+* A security incident has been fixed and a new packaged release is available.
+* Browser incompatibilities have been fixed and a new packaged release is available.
+* The team has received a 3rd party sponsor request and informs all customers about a sponsoring opportunity.
+* The team has changed parts of its infrastructure and customers need to be informed.
+* The agreement time frame has run out / will run out soon.
+
+### 8.3 Maintenance Scripts
+
+Under certain conditions it is necessary to apply changes to settings within TYPO3 CMS in order to fix a security issue.
+The team will provide automated updating and migration scripts where possible or meaningful, together with detailed instructions on what needs to be changed and why.
+
+## 9. Training Courses
+
+### 9.1 Cancellation Policy
+
+1. The participant is entitled to withdraw from the order. The organizer charges a fee of €100 for withdrawals up to four calendar weeks before the training. From one calendar week before the start of the seminar, the organizer will charge the total amount. Later withdrawals are charged at 75% of the participation fee. Any withdrawal must be in writing.
+
+1. The organizer reserves the right to cancel or terminate the event up to two weeks before the event's start should the number of bookings for this event be too low. The participation fee paid will be refunded within two weeks after the event's cancellation.
+
+1. In case of cancellation of an event due to illness of the trainer, force majeure, or other unforeseeable circumstances, there is no claim to the execution of the event.
+There is no claim for compensation of travel and accommodation costs as well as loss of work. There is no liability for indirect damages, especially loss of profit or claims of any third parties. 
+
+
+### 9.2 Scope of services and services not used
+
+1. If the participant does not use individual services, the organizer will still charge the entire participation fee.
+
+
+### 9.3 General conditions of participation
+
+1. The participant is in breach of contract if, despite a warning, they persistently disturb the event or behave in a manner significantly contrary to good morals. In this case, the organizer reserves the right to exclude the participant from the event and withhold their participation fee.
+
+1. The trainer is authorized to issue directives to the participants for the entire event duration.
+
+1. The participants are responsible to not to be under the influence of alcohol or other narcotics that may impair their ability to react and affect their physical condition. In case of violation, the organizer can exclude the participant from the event.
+
+1. Before the event, the trainer must be informed about health issues and possible illnesses so that the respective participant can be protected from harm in the best possible way.
+In case of visible, potentially contagious health issues, the organizer is entitled to exclude the participant from the event. Furthermore, the organizer reserves the right to withhold the participation fee.
+
+
+### 9.4 Confidentiality
+
+1. The organizer is obligated to maintain a strict level of confidentiality regarding all company and business secrets of the participant during the duration of an event and after its end.
+
+1. The participant will only use company secrets and documents of the organizer and their partners and customers to achieve the contractually owed service and treat them as strictly confidential towards third parties.
+
+1. The participant must also maintain a strict level of confidentiality regarding all information about the organizer that is not contained in the official advertising material, announcements, or in the organizer's media.
+
+1. The participant is responsible to keep all documents and materials as well as data carriers made available to them by the organizer or trainer properly secured against access by third parties.
+
+
+## 10. Customer Care
 
 For questions please contact our customer care team.
 Statutory liability for defects and further information
@@ -109,7 +249,7 @@ You can also easily archive your order details by either downloading the T&Cs an
 
 Kind regards,  
 TYPO3 GmbH  
-Emanuel-Leutze-Str. 1  
+Emanuel-Leutze-Str. 11  
 DE-40547 Düsseldorf
 
 Represented by: Mathias Schreiber  
