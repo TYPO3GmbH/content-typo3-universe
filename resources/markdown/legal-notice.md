@@ -9,7 +9,7 @@ Germany
 
 ## Represented by
 
-Mathias Schreiber
+Daniel Fau (CEO), Frank Nägler (CTO & Procuration)
 
 ## Contact
 
@@ -33,7 +33,7 @@ Sales tax identification number according to § 27 a of the Sales Tax Law:
 DE 815 655 651
 
 ## Person responsible for editorial
-Mathias Schreiber
+Daniel Fau
 TYPO3 GmbH
 Emanuel-Leutze-Str. 11
 40547 Düsseldorf

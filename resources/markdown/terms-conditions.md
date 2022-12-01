@@ -252,7 +252,7 @@ TYPO3 GmbH
 Emanuel-Leutze-Str. 11  
 DE-40547 Düsseldorf
 
-Represented by: Mathias Schreiber  
+Represented by: Daniel Fau (CEO), Frank Nägler (CTO & Procuration)
 Supervisory Board: Olivier Dobberkau, Ric van Westhreenen, Stefan Busemann  
 Registered with the Local Court (Amtsgericht) of Düsseldorf, HRB 77950  
 VAT ID: DE 815 655 651
