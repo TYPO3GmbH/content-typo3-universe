@@ -223,7 +223,7 @@ The use of Hubspot CRM is based on Art. 6(1)(f) GDPR. The website operator has a
 For details, please refer to Hubspot’s privacy policy:  
 https://legal.hubspot.com/de/privacy-policy.
 
-Data transmission to the US is based on the standard contractual clauses of the EU Commission. Details can be found here: https://www.hubspot.de/data privacy/privacy-shield.  
+Data transmission to the US is based on the standard contractual clauses of the EU Commission. Details can be found here: https://www.hubspot.com/data-privacy/privacy-shield.  
 
 ## Data processing
 
