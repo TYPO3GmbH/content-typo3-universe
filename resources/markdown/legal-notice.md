@@ -1,7 +1,5 @@
 # Legal Notice
 
-Information in accordance with section 5 TMG:
-
 TYPO3 GmbH  
 Emanuel-Leutze-Str. 11  
 40547 Düsseldorf
