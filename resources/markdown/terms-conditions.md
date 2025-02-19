@@ -102,23 +102,10 @@ Any refunds are paid automatically to the account you used for payment. For paym
 
 ### 8.1 Scope
 
-This document describes the deliverables for an extended support agreement for TYPO3 CMS 7.6, TYPO3 CMS 8.7, and TYPO3 CMS 9.5. It defines the terms of service for extended support in order to provide customers with more time to plan or fulfill a migration to TYPO3 CMS 10, TYPO3 CMS 11 or higher.
-The initial time frame is planned to extend the support for an additional 3 years, ending respectively on:      
-              
-ELTS 7.6: 1st year - November 30, 2019
-<br />ELTS 7.6: 2nd year - November 30, 2020
-<br />ELTS 7.6: 3rd year - November 30, 2021
-<br />eELTS 7.6: 4th year - November 30, 2022
+This document describes the deliverables for an extended support agreement for TYPO3 CMS ELTS (all versions). It defines the terms of service for extended support in order to provide customers with more time to plan or fulfill a migration to a publicly supported TYPO3 CMS version.
+The initial time frame is planned to extend the support for an additional 3 years.
 
-ELTS 8.7: 1st year - March 31, 2021
-<br />ELTS 8.7: 2nd year - March 31, 2022
-<br />ELTS 8.7: 3rd year - March 31, 2023
-
-ELTS 9.5: 1st year - September 30, 2022
-<br />ELTS 9.5: 2nd year - September 30, 2023
-<br />ELTS 9.5: 3rd year - September 30, 2024
-
-The extended support for any of the aforementioned versions might be extended beyond the given dates, although this is neither planned nor wanted at this point!
+Extended support for any ELTS versions might be extended beyond the given dates, although this is neither planned nor desired at this point!
 
 **8.1.1.  Customer Commitment**
 
@@ -131,42 +118,28 @@ Violating these rules will end the agreement.
 
 * The team commits to supplying fixes as outlined below a.s.a.p.
 * The team commits to informing all subscribers a.s.a.p. via email to allow proper planning of rollouts
-* The team commits to using the generated funds for supporting TYPO3 7.6, TYPO3 8.7, and TYPO3 9.5 and excess funds for further TYPO3 CMS development
+* The team commits to using the generated funds for supporting and excess funds for further TYPO3 CMS development
 
 **8.1.3 Security Patches**
 
-Security issues that have been reported or fixed in the currently maintained TYPO3 CMS versions (10 and 11) will be backported to TYPO3 CMS 7.6, TYPO3 CMS 8.7, and TYPO3 CMS 9.5, and made available in the private repository. See Notification down below for more details.
+Security issues that have been reported or fixed in the currently public-maintained TYPO3 CMS versions will be backported to TYPO3 CMS ELTS versions and made available in the private repository. See the Notification below for more details.
 This service is included in the agreement
 
 **8.1.4. Browser Compatibility**
 
-Each major release of the following browsers will be tested against the latest TYPO3 version using a combination of automated and manual tests for ELTS 7.6, ELTS 8.7, and ELTS 9.5:
+Each major release of the following browsers will be tested against the latest TYPO3 version using a combination of automated and manual tests for:
 
-* Google Chrome (latest) incl. Google for Businesses (latest)
-* Apple Safari (latest) (Mac only)
-* Opera (latest)
-* Microsoft Edge (latest)
-* Microsoft Internet Explorer (latest)
-* Mozilla Firefox (latest)
+* Chrome (latest)
+* Edge (latest)
+* Firefox (latest)
+* Safari (latest)
 
-The team ensures the backend of TYPO3 CMS 7.6, TYPO3 CMS 8.7, and ELTS 9.5 supports these browsers. This service is included in the agreement.
+The team ensures the backend supports these browsers. This service is included in the agreement.
 
 **8.1.5. Duration**
 
 The ELTS plans provided by the TYPO3 GmbH each have a total runtime of three years.
-This total runtime is split into three fixed terms that are available for subscription separately and combined:
-
-* ELTS 7.6: 1st year - December 1, 2018 to November 30, 2019 
-* ELTS 7.6: 2nd year - December 1, 2019 to November 30, 2020 
-* ELTS 7.6: 3rd year - December 1, 2020 to November 30, 2021 
-
-* ELTS 8.7: 1st year - April 1, 2020 to March 31, 2021
-* ELTS 8.7: 2nd year - April 1, 2021 to March 31, 2022
-* ELTS 8.7: 3rd year - April 1, 2022 to March 31, 2023
-
-* ELTS 9.5: 1st year - October 1, 2021 to September 30, 2022
-* ELTS 9.5: 2nd year - October 1, 2022 to September 30, 2023
-* ELTS 9.5: 3rd year - October 1, 2023 to September 30, 2024
+This total runtime is split into three fixed terms that are available for subscription separately and combined.
 
 **8.1.6. 3rd Party Extension Support**
 
@@ -176,9 +149,9 @@ All customers sponsoring the fix will get access to a separate private repositor
 A list of all adopted 3rd party extensions will be available to all customers. If a customer requests access to a repository they did not have access to earlier, the cost will be split up and refunded to the other customers accordingly.
 This refund can be acquired in one of the following ways:
 
-* Refund to bank account by end of the agreement of the respective versions for ELTS 7.6, ELTS 8.7 or ELTS 9.5.
-* Refund can be used in case another sponsoring is requested. Same rules as above apply.
-* Refund can be used to sponsor the development of TYPO3 CMS 11+
+* Refund to bank account by the end of the agreement of the respective ELTS versions.
+* Refund can be used in case another sponsoring is requested. The same rules as above apply.
+* Refund can be used to sponsor the development of TYPO3 CMS
 This service is **not** included in the support plan.
 
 ### 8.2 Notification
