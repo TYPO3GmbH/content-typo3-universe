@@ -28,7 +28,8 @@ Register Court: Amtsgericht Düsseldorf
 ## VAT ID
 
 Sales tax identification number according to § 27 a of the Sales Tax Law:  
-DE 815 655 651
+TYPO3 GmbH: DE 815 655 651  
+TYPO3 Association: CHE‑112.256.297 MWST
 
 ## Person responsible for editorial
 Daniel Fau
