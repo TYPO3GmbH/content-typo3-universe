@@ -1,258 +1,199 @@
-# Terms and Conditions
+# TYPO3 Terms and Conditions
 
-Standard Terms and Conditions (T&Cs) for orders placed online at typo3.com, typo3.org and its respective subdomains, from here on referred to as "our websites".
-We would like to familiarise you below with our standard terms and conditions, which govern how we process and settle your purchases.
+**Version October 2026**
 
-The specific Terms and Conditions for our Extended Long Term Support (ELTS) service can be accessed [here](https://typo3.com/products/extended-support/typo3-cms-elts-terms-and-conditions).
+Standard Terms and Conditions (T&Cs) for orders placed online at typo3.com, typo3.org and its respective subdomains, from here on referred to as "our websites". We would like to familiarise you below with our standard terms and conditions, which govern how we process and settle your purchases.
 
-Our websites offer "Digital Products and Services", "TYPO3 Association memberships", "TYPO3 merchandise" and "TYPO3 partner merchandise" for sale and subscription respectively, from here on referred to as "products" and "partner products".
-Products are all products that we offer on typo3.com, unless we advise that they are partner products.
+Our websites offer "Digital Products and Services", "TYPO3 Association memberships", "TYPO3 merchandise" and "TYPO3 partner merchandise" for sale and subscription respectively, from here on referred to as "products" and "third party products" by our partners. Products are all products that we offer on typo3.com, unless we advise that they are third party products.
 
-## 1. Formation of contract and delivery of products
+These T&Cs also apply to all future business relationships with the customer. These T&Cs apply only to traders (§ 14 BGB). A trader means a natural or legal person or a partnership with legal personality who or which, when concluding a legal transaction, acts in exercise of their trade, business or profession. We do not sell to consumers.
 
-1. For orders placed online at our websites, we enter into German or English language contracts only.
+## I. Formation of contract and delivery of products
 
-1. When you order or subscribe to TYPO3 products, your contract is with TYPO3 GmbH, Emanuel-Leutze-Str. 11, 40547 Düsseldorf, Germany, and when you order partner products, you also have a contract with the respective TYPO3 partner. TYPO3 partners are specifically identified on each products’ details page.
+1.  For orders placed online at our websites, we enter into German or English language contracts only.
 
-1. By clicking on "Buy now", you are placing a binding order for the items in your shopping cart. Once you have submitted your order, we will immediately send you an email confirmation of your order. A binding contract is formed when you receive the order confirmation from us. Please note that items ordered by advanced payment (reserved) will be dispatched as soon as we receive payment of the full purchase price and any shipping costs. We therefore ask you to transfer the purchase price immediately after receiving the order confirmation, but at least within 14 days.
+2.  When you order or subscribe to products, your contract is either with TYPO3 GmbH, Emanuel-Leutze-Str. 11, 40547 Düsseldorf, Germany or TYPO3 Association, LAUNCHSWISS AG, Bahnhofstrasse 4, 6340 Baar, Switzerland. During the ordering process, the specific contracting party is identified for each order.
 
-1. You consent to the assignment of the seller's claims for payment of the purchase price to third parties, in particular to TYPO3 GmbH.
+3.  By clicking on "Buy now", you are placing a binding order for the items in your shopping cart. Once you have submitted your order, we will immediately send you an email confirmation of your order. A binding contract is formed when you receive the order confirmation from us. Please note that items ordered by advanced payment (reserved) will be dispatched as soon as we receive payment of the full purchase price and any shipping costs. We therefore ask you to transfer the purchase price immediately after receiving the order confirmation, but at least within 14 days.
 
-1. Please note that, by way of exception, we are under no obligation to deliver your order if our suppliers fail to deliver stock correctly or on time, despite us having followed proper ordering practice at our end (matching purchase transaction (kongruentes Deckungsgeschäft). For this exception to apply, we must not be legally responsible for the products or partner products being unavailable, and we must have notified you of the situation without undue delay. In addition, we must not have assumed a procurement risk in relation to the ordered products or partner products. If products or partner products are unavailable, we will refund any payments made by you without undue delay.
+4.  Please note that, by way of exception, we are under no obligation to deliver your order if our suppliers fail to deliver stock correctly or on time, despite us having followed proper ordering practice at our end (matching purchase transaction / kongruentes Deckungsgeschäft). For this exception to apply, we must not be legally responsible for the products or partner products being unavailable, and we must have notified you of the situation without undue delay. In addition, we must not have assumed a procurement risk in relation to the ordered products or partner products. If products or third party products are unavailable, we will refund any payments made by you without undue delay.
 
-1. We do not assume the risk of having to procure ordered products or partner products elsewhere (procurement risk). This applies also to orders for generic goods (where only the type and features of the goods are described). We are obliged only to make deliveries from our available stock and from the stock we have ordered from our suppliers. Our stock includes the relevant TYPO3 partner's stock where TYPO3 partner products were ordered. Where time periods are expressed in working days, we understand working days to mean all of the days between Monday and Friday inclusive, but not public holidays.
+5.  We do not assume the risk of having to procure ordered products or third party products elsewhere (procurement risk). This applies also to orders for generic goods (where only the type and features of the goods are described). We are obliged only to make deliveries from our available stock and from the stock we have ordered from our suppliers. Our stock includes the relevant TYPO3 partner's stock where third party products were ordered. Where time periods are expressed in working days, we understand working days to mean all of the days between Monday and Friday inclusive, but not public holidays.
 
-1. We inform you about the delivery time on each product detail page as well as before you place an order.
+6.  We inform you about the delivery time on each product detail page as well as before you place an order.
 
-## 2. Prices, shipping costs and express delivery
+## II. Prices, shipping costs and express delivery
 
-1. The prices set out in the offer as at the date on which the order is placed shall apply. The stated prices are net prices, in other words they do not include value added tax. The products remain our property or the property of the relevant TYPO3 partner, as the case may be, until full payment of the purchase price.
+1.  The prices set out in the offer as at the date on which the order is placed shall apply. The stated prices are net prices, in other words they do not include value added tax. The products remain our property or the property of the relevant TYPO3 partner, as the case may be, until full payment of the purchase price.
 
-1. Costs of shipping are indicated on your order screen prior to finalizing the order.
+2.  Costs of shipping are indicated on your order screen prior to finalizing the order.
 
-1. Express delivery is not available. Products and partner products will be delivered within 3-5 working days at the latest. If the products or partner products do not arrive within that delivery period, you will of course receive a refund of the delivery costs.
+## III. Payment
 
-## 3. Payment
+1.  We generally accept the following payment methods: cash in advance, credit card and payment through Paypal. We reserve the right not to accept certain payment methods for a given order and to refer to other payment methods. You are responsible for any costs associated with money transactions.
 
-1. We generally accept the following payment methods: cash in advance, credit card and payment through Paypal. We reserve the right not to accept certain payment methods for a given order and to refer to other payment methods. You are responsible for any costs associated with money transactions.
+2.  All recurring payments using Credit Card and SEPA Direct Debit are handled via Payment service provider (e.g. Stripe Inc., PayPal or Yatta)
 
-1. All recurring payments using Credit Card and SEPA Direct Debit are handled via Stripe Inc.
+3.  In the case of credit card purchases, your card will be charged when you place your order.
 
-1. In the case of credit card purchases, your card will be charged when you place your order.
+4.  You consent to receiving invoices and credits solely in electronic form.
 
-1. You consent to receiving invoices and credits solely in electronic form.
+## IV. Promotional vouchers and their redemption
 
-## 4. Promotional vouchers and their redemption
+1.  Promotional vouchers are vouchers that cannot be purchased, but are given out during advertising campaigns or at our discretion and are valid for a certain period of time.
 
-1. Promotional vouchers are vouchers that cannot be purchased, but are given out during advertising campaigns or at our discretion and are valid for a certain period of time.
+2.  Promotional vouchers can be redeemed once only in connection with an order, and only within the specified period. Certain products or third party products may be excluded from the promotion. Promotional vouchers may not be used to purchase gift vouchers. Please note that a minimum order value may apply to the use of promotional vouchers.
 
-1. Promotional vouchers can be redeemed once only in connection with an order, and only within the specified period. Certain products or partner products may be excluded from the promotion. Promotional vouchers may not be used to purchase gift vouchers. Please note that a minimum order value may apply to the use of promotional vouchers.
+3.  The value of the products or third party products must equal or exceed the value of the promotional voucher. If the voucher does not cover the value of the products or partner products, the difference can be paid using any of the accepted payment methods. The value of promotional vouchers will not be paid out in cash, nor will it accrue interest. Promotional vouchers will not be refunded if all or some of the products or third part products are returned.
 
-1. The value of the products or partner products must equal or exceed the value of the promotional voucher. If the voucher does not cover the value of the products or partner products, the difference can be paid using any of the accepted payment methods. The value of promotional vouchers will not be paid out in cash, nor will it accrue interest. Promotional vouchers will not be refunded if all or some of the products or partner products are returned.
+4.  Promotional vouchers can only be redeemed before the ordering process is complete. It is not possible to apply vouchers retrospectively. Promotional vouchers may not be transferred to third parties. Unless we have agreed otherwise, it is not possible to combine multiple promotional vouchers.
 
-1. Promotional vouchers can only be redeemed before the ordering process is complete. It is not possible to apply vouchers retrospectively. Promotional vouchers may not be transferred to third parties. Unless we have agreed otherwise, it is not possible to combine multiple promotional vouchers.
+5.  If you used a promotional voucher when making your purchase and, as a result of revocation by you, the total value of your order is less than or equal to the value of the promotional voucher, we reserve the right to charge you the original price for the products or products and services you retain.
 
-1. If you used a promotional voucher when making your purchase and, as a result of revocation by you, the total value of your order is less than or equal to the value of the promotional voucher, we reserve the right to charge you the original price for the products or products and services you retain.
+## V. Refund
 
-## 5. Gift vouchers and their redemption
+1.  Any refunds are paid automatically to the account you used for payment. For payments on account and advance payment by funds transfer, the refund will be sent to the account from which the payment was made.
 
-1. Gift vouchers are vouchers that can be purchased. They may only be redeemed to purchase products and partner products, not more gift vouchers. If the value of a gift voucher is not enough to cover the order, the difference can be paid using any of the accepted payment methods.
+2.  If you paid by Paypal/credit card, the refund will be sent to your Paypal/credit card account. If you used a gift voucher for your purchase, we will credit the relevant amount to your gift voucher account.
 
-1. Gift vouchers can only be redeemed and credits applied prior to completing your order. The value of gift vouchers will not be paid out in cash, nor will it accrue interest. Please go to "My Account" at shop.typo3.com in order to redeem gift vouchers and apply them to your customer account or to view your credit balance.
+## VI. ELTS
 
-## 6. Statutory right of revocation in respect to TYPO3 products or partner products
+### 1. Scope
 
-**When you purchase TYPO3 products or partner products you have a statutory right of revocation:**  
-The first thing you should know is that if you decide to return products or partner products, you can use the return shipping label enclosed with your order. If you do not have access to a printer, you encounter problems downloading the return shipping label or you require a new return shipping label, you can contact Customer Care to request one (contact details below). Please help us to avoid unnecessary costs by always using the return shipping label when returning products or partner products.
+We offer an extended support agreement for several TYPO3 CMS versions in order to provide customers with more time to plan or fulfil a migration to newer TYPO3 CMS versions. An overview of all versions and the corresponding ELTS offers can be found at [here](https://typo3.com/services/extended-support-elts).
 
-**Information regarding the right of revocation:**  
-You have the right to revoke this contract within 14 days without giving any reasons. The period of revocation is 14 days from the day on which you, or a third party designated by you (but who is not the carrier), took possession of the last item of your order.
+The extended support for any of the mentioned versions might be extended beyond the given dates, although this is neither planned nor wanted at this point.
 
-In order to exercise your right of revocation you must notify us (TYPO3 GmbH, Emanuel-Leutze-Str. 11, 40547 Düsseldorf, Telefon: +49 (0)211 20 54 36 0, Telefax: +49 (0)211 20 54 36 50, email: revocation@typo3.com) of your decision to revoke the contract by sending us an unequivocal declaration (e.g. a letter sent by post, a fax or an email). If you wish, you may use the attached revocation form, but there is no requirement to do so.
+#### 1.1. Customer Commitment
 
-**Consequences of revocation:**  
-If you revoke this contract, we are required to refund all payments we received from you, including delivery costs (except any additional costs incurred as a result of you choosing a delivery method other than the lowest-cost standard delivery offered by us), without undue delay and at least within 14 days from the day on which we received your notice of revocation of this contract. Refunds will be processed using the same method of payment which you used for the original transaction, unless expressly agreed otherwise with you. We will not charge you any fees for the refund. We may hold off completing your refund until we have received the products or partner products back, or you have supplied us with proof that you have returned the products or partner products, whichever occurs earlier.
+- The customer gains read-access to a private repository that can be accessed either via a web interface using user name and password or via command line by providing a public SSH key.
 
-You are obliged to return or hand over all products or partner products to us without undue delay, but at least within 14 days from the day on which you gave us your notice of revocation of this contract.
+- The customer commits to using the provided source code only within the limits of the package subscribed to.
 
-The above requirement is deemed satisfied if you return the goods before expiry of the 14-day period. We will not assume the return shipping costs, you will be required to pay the return shipping costs. You are only obliged to cover any depreciation in the value of products or partner products if the depreciation is attributable to your improper handling of the products or partner products when examining its condition, properties and function.
+- The customer commits to not disclosing and/or exploiting issues known by having access to the private repository. Violating these rules will end the ELTS agreement and the access to the private repository.
 
-**Revocation form**  
-(If you wish to revoke the contract, please complete this form and return it to us)
+### 1.2. Support Team Commitment
 
-TYPO3 GmbH, Emanuel-Leutze-Str. 11, 40547 Düsseldorf, phone: +49 (0)211 20 54 36 0, Telefax: +49 (0)211 20 54 36 50, e-mail: revocation@typo3.com:
+- TYPO3 commits to supplying fixes as outlined below a.s.a.p.
 
-```
-I/we (*) hereby revoke the contract concluded by me/us (*) to purchase the following products (*)/:
-— ordered on (*)/received on (*)
-— name of customer(s)
-— address of customer(s)
-— date
-(*) Delete where applicable
-```
+- TYPO3 commits to informing all subscribers a.s.a.p. via email to allow proper planning of rollouts
 
-**End of notice**  
-**Attention:** The right of cancellation expires prematurely for contracts subject to sealed goods which have been unsealed after delivery and which are not suitable for return due to hygienic reasons.
+- TYPO3 commits to using the generated funds for supporting TYPO3 CMS and products and excess funds for further TYPO3 CMS development
 
-## 7. Refunds
+### 1.3. Security Patches
 
-Any refunds are paid automatically to the account you used for payment. For payments on account and advance payment by funds transfer, the refund will be sent to the account from which the payment was made. If you paid by Paypal/credit card, the refund will be sent to your Paypal/credit card account. If you used a gift voucher for your purchase, we will credit the relevant amount to your gift voucher account.
+Security issues that have been reported or fixed in the currently maintained TYPO3 CMS versions will be backported to TYPO3 CMS versions as described at [here](https://typo3.com/services/extended-support-elts), and made available in the private repository. See Notification down below for more details.
 
-## 8. ELTS
+### 1.4. Browser Compatibility
 
-### 8.1 Scope
+Each major release of the following browsers will be tested against the latest TYPO3 version using a combination of automated and manual tests for available ELTS:
 
-This document describes the deliverables for an extended support agreement for TYPO3 CMS 7.6, TYPO3 CMS 8.7, and TYPO3 CMS 9.5. It defines the terms of service for extended support in order to provide customers with more time to plan or fulfill a migration to TYPO3 CMS 10, TYPO3 CMS 11 or higher.
-The initial time frame is planned to extend the support for an additional 3 years, ending respectively on:      
-              
-ELTS 7.6: 1st year - November 30, 2019
-<br />ELTS 7.6: 2nd year - November 30, 2020
-<br />ELTS 7.6: 3rd year - November 30, 2021
-<br />eELTS 7.6: 4th year - November 30, 2022
+- Chrome (latest)
 
-ELTS 8.7: 1st year - March 31, 2021
-<br />ELTS 8.7: 2nd year - March 31, 2022
-<br />ELTS 8.7: 3rd year - March 31, 2023
+- Edge (latest)
 
-ELTS 9.5: 1st year - September 30, 2022
-<br />ELTS 9.5: 2nd year - September 30, 2023
-<br />ELTS 9.5: 3rd year - September 30, 2024
+- Firefox (latest)
 
-The extended support for any of the aforementioned versions might be extended beyond the given dates, although this is neither planned nor wanted at this point!
+- Safari (latest)
 
-**8.1.1.  Customer Commitment**
+The team ensures the backend of current TYPO3 CMS supports these browsers. This service is included in the agreement.
 
-* The customer gains read-access to a private repository that can be accessed either via a web interface using user name  and password or via command line by providing a public SSH key.
-* The customer commits to using the provided source code only within the limits of the package subscribed to.
-* The customer commits to not disclosing and/or exploiting issues known by having access to the private repository.
-Violating these rules will end the agreement.
+### 1.5. Duration
 
-**8.1.2.  Support Team Commitment**
+The ELTS plans provided by TYPO3 each have a total runtime of three years. This total runtime is split into three fixed terms that are available for subscription separately and combined as described at [here](https://typo3.com/services/extended-support-elts).
 
-* The team commits to supplying fixes as outlined below a.s.a.p.
-* The team commits to informing all subscribers a.s.a.p. via email to allow proper planning of rollouts
-* The team commits to using the generated funds for supporting TYPO3 7.6, TYPO3 8.7, and TYPO3 9.5 and excess funds for further TYPO3 CMS development
-
-**8.1.3 Security Patches**
-
-Security issues that have been reported or fixed in the currently maintained TYPO3 CMS versions (10 and 11) will be backported to TYPO3 CMS 7.6, TYPO3 CMS 8.7, and TYPO3 CMS 9.5, and made available in the private repository. See Notification down below for more details.
-This service is included in the agreement
-
-**8.1.4. Browser Compatibility**
-
-Each major release of the following browsers will be tested against the latest TYPO3 version using a combination of automated and manual tests for ELTS 7.6, ELTS 8.7, and ELTS 9.5:
-
-* Google Chrome (latest) incl. Google for Businesses (latest)
-* Apple Safari (latest) (Mac only)
-* Opera (latest)
-* Microsoft Edge (latest)
-* Microsoft Internet Explorer (latest)
-* Mozilla Firefox (latest)
-
-The team ensures the backend of TYPO3 CMS 7.6, TYPO3 CMS 8.7, and ELTS 9.5 supports these browsers. This service is included in the agreement.
-
-**8.1.5. Duration**
-
-The ELTS plans provided by the TYPO3 GmbH each have a total runtime of three years.
-This total runtime is split into three fixed terms that are available for subscription separately and combined:
-
-* ELTS 7.6: 1st year - December 1, 2018 to November 30, 2019 
-* ELTS 7.6: 2nd year - December 1, 2019 to November 30, 2020 
-* ELTS 7.6: 3rd year - December 1, 2020 to November 30, 2021 
-
-* ELTS 8.7: 1st year - April 1, 2020 to March 31, 2021
-* ELTS 8.7: 2nd year - April 1, 2021 to March 31, 2022
-* ELTS 8.7: 3rd year - April 1, 2022 to March 31, 2023
-
-* ELTS 9.5: 1st year - October 1, 2021 to September 30, 2022
-* ELTS 9.5: 2nd year - October 1, 2022 to September 30, 2023
-* ELTS 9.5: 3rd year - October 1, 2023 to September 30, 2024
-
-**8.1.6. 3rd Party Extension Support**
-
-Priority support for 3rd party code can be requested by a customer and the workload will be estimated by the team.
-All subscribers to the agreement will be informed about the expected workload and the problem with the 3rd party extension. This way the investment can be split up for customers interested in fixing the issue.
-All customers sponsoring the fix will get access to a separate private repository hosting the respective 3rd party extension.
-A list of all adopted 3rd party extensions will be available to all customers. If a customer requests access to a repository they did not have access to earlier, the cost will be split up and refunded to the other customers accordingly.
-This refund can be acquired in one of the following ways:
-
-* Refund to bank account by end of the agreement of the respective versions for ELTS 7.6, ELTS 8.7 or ELTS 9.5.
-* Refund can be used in case another sponsoring is requested. Same rules as above apply.
-* Refund can be used to sponsor the development of TYPO3 CMS 11+
-This service is **not** included in the support plan.
-
-### 8.2 Notification
+## 2. Notification
 
 All customers and/or their respective TYPO3 agencies will be notified on the following occasions:
 
-* A security incident has been reported or was found.
-* This report may contain a time frame for resolving the problem.
-* A security incident has been fixed and a new packaged release is available.
-* Browser incompatibilities have been fixed and a new packaged release is available.
-* The team has received a 3rd party sponsor request and informs all customers about a sponsoring opportunity.
-* The team has changed parts of its infrastructure and customers need to be informed.
-* The agreement time frame has run out / will run out soon.
+- A security incident has been reported or was found.
 
-### 8.3 Maintenance Scripts
+- This report may contain a time frame for resolving the problem.
 
-Under certain conditions it is necessary to apply changes to settings within TYPO3 CMS in order to fix a security issue.
-The team will provide automated updating and migration scripts where possible or meaningful, together with detailed instructions on what needs to be changed and why.
+- A security incident has been fixed and a new packaged release is available.
 
-## 9. Training Courses
+- Browser incompatibilities have been fixed and a new packaged release is available.
 
-### 9.1 Cancellation Policy
+- TYPO3 has received a 3rd party sponsor request and informs all customers about a sponsoring opportunity.
 
-1. The participant is entitled to withdraw from the order. The organizer charges a fee of €100 for withdrawals up to four calendar weeks before the training. From one calendar week before the start of the seminar, the organizer will charge the total amount. Later withdrawals are charged at 75% of the participation fee. Any withdrawal must be in writing.
+- TYPO3 has changed parts of its infrastructure and customers need to be informed.
 
-1. The organizer reserves the right to cancel or terminate the event up to two weeks before the event's start should the number of bookings for this event be too low. The participation fee paid will be refunded within two weeks after the event's cancellation.
+- The agreement time frame has run out / will run out soon.
 
-1. In case of cancellation of an event due to illness of the trainer, force majeure, or other unforeseeable circumstances, there is no claim to the execution of the event.
-There is no claim for compensation of travel and accommodation costs as well as loss of work. There is no liability for indirect damages, especially loss of profit or claims of any third parties. 
+## VII. Training Courses
 
+In the event that the customer books training courses with TYPO3, the following conditions in this section shall apply. For training courses booked by the customer with TYPO3 partners, the corresponding conditions of the respective TYPO3 partner shall apply.
 
-### 9.2 Scope of services and services not used
+### 1. Cancellation Policy
 
-1. If the participant does not use individual services, the organizer will still charge the entire participation fee.
+1.  The participant is entitled to withdraw from the order of a Training Course. TYPO3 charges a fee of €100 for withdrawals up to four calendar weeks before the training. From one calendar week before the start of the seminar, TYPO3 will charge the total amount. Any withdrawal must be in writing.
 
+2.  TYPO3 reserves the right to cancel or terminate any Training Course up to two weeks before the event's start should the number of bookings for this training be too low. The participation fee paid will be refunded within two weeks after the event's cancellation.
 
-### 9.3 General conditions of participation
+3.  In case of cancellation of an event due to illness of the trainer, force majeure, or other unforeseeable circumstances, there is no claim to the execution of the event. There is no claim for compensation of travel and accommodation costs as well as loss of work. There is no liability for indirect damages, especially loss of profit or claims of any third parties.
 
-1. The participant is in breach of contract if, despite a warning, they persistently disturb the event or behave in a manner significantly contrary to good morals. In this case, the organizer reserves the right to exclude the participant from the event and withhold their participation fee.
+### 2. Scope of services and services not used
 
-1. The trainer is authorized to issue directives to the participants for the entire event duration.
+1.  If the participant does not use individual services, TYPO3 will still charge the entire participation fee.
 
-1. The participants are responsible to not to be under the influence of alcohol or other narcotics that may impair their ability to react and affect their physical condition. In case of violation, the organizer can exclude the participant from the event.
+### 3. General conditions of participation
 
-1. Before the event, the trainer must be informed about health issues and possible illnesses so that the respective participant can be protected from harm in the best possible way.
-In case of visible, potentially contagious health issues, the organizer is entitled to exclude the participant from the event. Furthermore, the organizer reserves the right to withhold the participation fee.
+1.  The participant is in breach of contract if, despite a warning, they persistently disturb the event or behave in a manner significantly contrary to good morals. In this case, TYPO3 reserves the right to exclude the participant from the event and withhold their participation fee.
 
+2.  The trainer is authorized to issue directives to the participants for the entire event duration.
 
-### 9.4 Confidentiality
+3.  The participants are responsible to not to be under the influence of alcohol or other narcotics that may impair their ability to react and affect their physical condition. In case of violation, TYPO3 can exclude the participant from the event.
 
-1. The organizer is obligated to maintain a strict level of confidentiality regarding all company and business secrets of the participant during the duration of an event and after its end.
+4.  Before the event, TYPO3 must be informed about health issues and possible illnesses so that the respective participant can be protected from harm in the best possible way. In case of visible, potentially contagious health issues, the organizer is entitled to exclude the participant from the event. Furthermore, TYPO3 reserves the right to withhold the participation fee.
 
-1. The participant will only use company secrets and documents of the organizer and their partners and customers to achieve the contractually owed service and treat them as strictly confidential towards third parties.
+## VIII. Liability
 
-1. The participant must also maintain a strict level of confidentiality regarding all information about the organizer that is not contained in the official advertising material, announcements, or in the organizer's media.
+1.  If TYPO3, its legal representatives, employees, or vicarious agents intentionally or grossly negligently breach an obligation, TYPO3 shall be liable for the resulting damage to the customer in accordance with the statutory provisions.
 
-1. The participant is responsible to keep all documents and materials as well as data carriers made available to them by the organizer or trainer properly secured against access by third parties.
+2.  If TYPO3, its legal representatives, employees, or vicarious agents merely breach an obligation through simple negligence, claims for damages by the customer against TYPO3, regardless of their nature and legal basis, in particular due to breach of obligations arising from the contractual relationship or from tort, are excluded. This does not apply in the event of a simple negligent breach of an essential contractual obligation. In this case, liability shall be limited to the foreseeable damage typical for the contract and to a maximum of twice the order value or, in the case of continuing obligations, to twice the annual remuneration. An essential contractual obligation in this sense is one whose fulfillment is essential for the proper execution of the contract and on whose compliance the customer regularly relies and may rely.
 
+3.  The above exclusion of liability or limitation of liability shall not apply in the event of claims under the Product Liability Act and in the event of culpable injury to life, limb, or health.
 
-## 10. Customer Care
+4.  The statutory rules on the burden of proof remain unaffected by the above provisions.
 
-For questions please contact our customer care team.
-Statutory liability for defects and further information
-The relevant statutory provisions govern our liability for defects.
-These T&Cs can be viewed at shop.typo3.com/page/terms. You can also print or save this document by selecting the usual commands in your web browser (usually File -> Save as).
+5.  Insofar as TYPO3's liability is excluded or limited in accordance with the above paragraphs, this also applies in favor of TYPO3's employees and legal representatives in the event of direct claims by the customer against them.
+
+## IX. Data Privacy and Confidentiality
+
+1.  When collecting, processing, and using the customer's personal data, TYPO3 undertakes to comply with the statutory provisions on data protection and to use the customer's personal data exclusively for the purpose of fulfilling the contract, to keep it confidential, and to not pass it on to third parties without the customer's express consent.
+
+2.  If the customer's personal data is transferred to third parties, TYPO3 shall ensure that the third parties are bound by the same confidentiality obligations as TYPO3.
+
+3.  The customer and TYPO3 are obliged to treat all information and data that they receive from the other party within the framework of the contractual relationship as confidential and not to pass it on to third parties.
+
+## X. Customer Care
+
+For questions please contact our customer care team: support@typo3.com
+
+## XI. Final provisions
+
+1.  The place of performance for all services arising from this contract is Düsseldorf, Germany.
+
+2.  Rights of retention or other rights to refuse performance may only be asserted against TYPO3 to the extent that they are based on claims of the customer arising from the same contractual relationship from which TYPO3 asserts payment claims against the customer.
+
+3.  The assignment or transfer of rights and/or obligations arising from this contract by the customer requires the prior written consent of TYPO3.
+
+4.  If, in the event of a breach of these agreements by the customer, TYPO3 does not assert any claims against the customer or any other rights, this shall not affect TYPO3's right to assert the corresponding claims and other rights in the event of a further breach.
+
+5.  If any of the above provisions is or becomes invalid, this shall not affect the validity of the remaining provisions. The invalid provisions shall be replaced by the statutory provisions. The same shall apply if the General Terms and Conditions contain an unforeseen loophole.
+
+6.  The law of the Federal Republic of Germany applies to this contract, excluding the UN Convention on Contracts for the International Sale of Goods (CISG).
+
+7.  The exclusive place of jurisdiction is Düsseldorf. Any exclusive place of jurisdiction shall remain unaffected by the above provision. TYPO3 may also sue the customer at another court with jurisdiction according to the law applicable to the contract.
+
+These T&Cs can be viewed at [https://typo3.com/terms-conditions](https://typo3.com/terms-conditions). You can also print or save this document by selecting the usual commands in your web browser (usually File -\> Save as).
 
 You can also easily archive your order details by either downloading the T&Cs and using the appropriate commands in your browser to save the order summary appearing on the last page of the online shop ordering process, or by waiting to receive the automatic order confirmation which we also send to your nominated e-mail address upon completion of your order. The order confirmation e-mail includes your order details and our T&Cs and can be easily printed out or saved with your email program.
 
-Kind regards,  
 TYPO3 GmbH  
 Emanuel-Leutze-Str. 11  
 DE-40547 Düsseldorf
 
-Represented by: Daniel Fau (CEO), Frank Nägler (CTO & Procuration)
-Supervisory Board: Olivier Dobberkau, Ric van Westhreenen, Stefan Busemann  
+Represented by: Daniel Fau (CEO), Frank Nägler (CTO & Procuration) Supervisory Board: Olivier Dobberkau, Ric van Westhreenen, Stefan Busemann  
 Registered with the Local Court (Amtsgericht) of Düsseldorf, HRB 77950  
 VAT ID: DE 815 655 651
