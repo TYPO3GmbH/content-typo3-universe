@@ -1,0 +1,12 @@
+# Please report vulnerabilities using the TYPO3 security team address
+Contact: mailto:security@typo3.org
+Expires: 2030-01-01T00:00:00z
+
+# OpenPGP key
+Encryption: https://typo3.community/fileadmin/community/teams/security/B41CC3EF373E0F5C70187FE93BEFBD27C05FBE60.asc
+Encryption: https://keys.openpgp.org/vks/v1/by-fingerprint/B41CC3EF373E0F5C70187FE93BEFBD27C05FBE60
+Encryption: openpgp4fpr:B41CC3EF373E0F5C70187FE93BEFBD27C05FBE60
+
+Policy: https://typo3.community/contribute/teams-committees/security/security-in-typo3
+Preferred-Languages: en
+Canonical: https://typo3.community/.well-known/security.txt
