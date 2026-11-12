@@ -17,11 +17,17 @@ Both files should be placed at the following locations:
 * `typo3.community/.well-known/security.txt`
 * `typo3.community/.well-known/security.txt.asc`
 
-In addition, the following URLs should redirect to it:
+In addition, the following redirects should be in place:
 
-* `typo3.org/.well-known/security.txt`
-* `typo3.org/.well-known/security.txt.asc`
-* `typo3.com/.well-known/security.txt`
-* `typo3.com/.well-known/security.txt.asc`
+* `/security.txt -> /.well-known/security.txt`
+* `/security.txt.asc -> /.well-known/security.txt.asc`
+
+Next to the main `typo3.community` domain, all TYPO3-related domains such as `typo3.org`
+or `typo3.com` should have redirects in place, for example:
+
+* `typo3.org/.well-known/security.txt -> typo3.community/.well-known/security.txt`
+* `typo3.org/.well-known/security.txt.asc -> typo3.community/.well-known/security.txt.asc`
+* `typo3.org/security.txt -> typo3.community/security.txt`
+* `typo3.org/security.txt.asc -> typo3.community/security.txt.asc`
 
 This follows best practices regarding a single canonical URL for the `security.txt` file.
